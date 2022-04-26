@@ -1,0 +1,8 @@
+{
+  "name": "HealthcareQuality",
+  "type": "slider",
+  "leftLabel": "Lower",
+  "rightLabel": "Higher",
+  "question": "Would you like to consider healthcare quality in your new city?",
+  "subquestion": "Some US cities are home to the best hospitals in the world."
+}

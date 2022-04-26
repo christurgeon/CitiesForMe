@@ -1,0 +1,8 @@
+{
+  "name": "Cost",
+  "type": "slider",
+  "leftLabel": "Less Expensive",
+  "rightLabel": "More Expensive",
+  "question": "Do you need to limit your city's cost of living?",
+  "subquestion": "Cost of living is based on an index of commonly purchased goods."
+}

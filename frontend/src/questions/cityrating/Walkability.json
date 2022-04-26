@@ -1,0 +1,8 @@
+{
+  "name": "Walkability",
+  "type": "slider",
+  "leftLabel": "Not Walkable",
+  "rightLabel": "Very Walkable",
+  "question": "How walkable is this city?",
+  "subquestion": "How easily can you get where you need to go without a vehicle?"
+}

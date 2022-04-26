@@ -1,0 +1,8 @@
+{
+  "name": "Temperature",
+  "type": "slider",
+  "leftLabel": "Cooler",
+  "rightLabel": "Warmer",
+  "question": "Do you like cities with warm weather?",
+  "subquestion": "Cities in colder climates can also have great amenities like hiking and skiing areas."
+}

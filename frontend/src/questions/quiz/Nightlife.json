@@ -1,0 +1,8 @@
+{
+  "name": "Nightlife",
+  "type": "slider",
+  "leftLabel": "Not Active",
+  "rightLabel": "Very Active",
+  "question": "How active would you like your city's nightlife to be?",
+  "subquestion": "Looking for a bustling bar scene, or a quiet downtown?"
+}

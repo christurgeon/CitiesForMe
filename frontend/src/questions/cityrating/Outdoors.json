@@ -1,0 +1,8 @@
+{
+  "name": "Outdoors",
+  "type": "slider",
+  "leftLabel": "Not Accessible",
+  "rightLabel": "Very Accessible",
+  "question": "How accessible are the outdoors in this city?",
+  "subquestion": "Are there any notable parks, trails, or nature preserves around this city?"
+}

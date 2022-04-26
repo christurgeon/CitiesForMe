@@ -1,0 +1,8 @@
+{
+  "name": "Nightlife",
+  "type": "slider",
+  "leftLabel": "Not Active",
+  "rightLabel": "Very Active",
+  "question": "How active is the nightlife scene in this city?",
+  "subquestion": ""
+}

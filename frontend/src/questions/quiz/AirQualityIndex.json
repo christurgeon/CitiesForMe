@@ -1,0 +1,8 @@
+{
+  "name": "Air Quality Index",
+  "type": "slider",
+  "leftLabel": "Poor Air Quality",
+  "rightLabel": "High Air Quality",
+  "question": "Does your city's air quality matter to you?",
+  "subquestion": "Many US cities have some of the cleanest air in the world!"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "HealthcareCost",
+  "type": "slider",
+  "leftLabel": "Lower",
+  "rightLabel": "Higher",
+  "question": "Would you like to consider healthcare costs in your new city?",
+  "subquestion": "Healthcare in the US is pricey, but some places are better than others!"
+}

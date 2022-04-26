@@ -1,0 +1,8 @@
+{
+  "name": "Population",
+  "type": "slider",
+  "leftLabel": "Smaller",
+  "rightLabel": "Larger",
+  "question": "Do you like smaller or larger cities?",
+  "subquestion": "CitiesForMe include cities with >50,000 people."
+}

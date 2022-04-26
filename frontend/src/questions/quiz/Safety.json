@@ -1,0 +1,8 @@
+{
+  "name": "Safety",
+  "type": "slider",
+  "leftLabel": "Not Safe",
+  "rightLabel": "Very Safe",
+  "question": "How important is safety to you?",
+  "subquestion": "Crime rates vary dramatically across US cities."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Age",
+  "type": "slider",
+  "leftLabel": "Younger",
+  "rightLabel": "Older",
+  "question": "Do you have a preference for the average age of a city resident?",
+  "subquestion": "Want a college town, retiree haven, or something in between?"
+}

@@ -1,0 +1,92 @@
+{
+  "keywords": [
+    "react",
+    "reactjs",
+    "webpack",
+    "boilerplate",
+    "tailwind"
+  ],
+  "license": "MIT",
+  "name": "citiesfor.me",
+  "version": "1.0.1",
+  "description": "Cities for Me Website",
+  "dependencies": {
+    "antd": "^4.15.2",
+    "axios": "^0.21.1",
+    "google-maps-react": "^2.0.6",
+    "prop-types": "^15.7.2",
+    "pure-react-carousel": "^1.27.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-media": "^1.10.0",
+    "react-slider": "^1.1.4",
+    "tailwindcss": "^2.0.3",
+    "uuid": "^8.3.2"
+  },
+  "main": "index.jsx",
+  "scripts": {
+    "start": "webpack serve --config config/webpack.dev.js",
+    "build": "NODE_ENV=production webpack --config config/webpack.prod.js",
+    "prettify": "yarn prettier \"**/*.*(js|jsx)\" --ignore-path=.prettierignore --write",
+    "lint": "eslint src --ext .js,.jsx && yarn prettify",
+    "lint-fix": "eslint src --ext .js,.jsx --fix && yarn prettify",
+    "deploy": "yarn run build && netlify deploy",
+    "deploy-prod": "netlify deploy --prod"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn lint-staged --verbose"
+    }
+  },
+  "lint-staged": {
+    "*.{js,jsx}": [
+      "eslint --fix"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/preset-env": "^7.13.10",
+    "@babel/preset-react": "^7.12.13",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
+    "@svgr/webpack": "^5.5.0",
+    "autoprefixer": "^10.2.5",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.2",
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^8.0.0",
+    "css-loader": "^5.1.2",
+    "css-minimizer-webpack-plugin": "^1.2.0",
+    "dotenv-webpack": "^7.0.1",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "18.2.1",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-babel": "^5.3.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.3.1",
+    "husky": "^5.1.3",
+    "lint-staged": "^10.5.4",
+    "mini-css-extract-plugin": "^1.3.9",
+    "netlify-cli": "^3.10.12",
+    "node-sass": "^5.0.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.4",
+    "postcss": "^8.2.8",
+    "postcss-import": "^14.0.0",
+    "postcss-loader": "^5.2.0",
+    "prettier": "^2.2.1",
+    "react-refresh": "^0.9.0",
+    "sass-loader": "^11.0.1",
+    "style-loader": "^2.0.0",
+    "terser-webpack-plugin": "^5.1.1",
+    "webpack": "^5.25.1",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2",
+    "webpack-merge": "^5.7.3"
+  }
+}

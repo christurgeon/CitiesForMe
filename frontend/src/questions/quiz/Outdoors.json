@@ -1,0 +1,8 @@
+{
+  "name": "Outdoors",
+  "type": "slider",
+  "leftLabel": "Not Accessible",
+  "rightLabel": "Very Accessible",
+  "question": "How accessible would you like the outdoors to be?",
+  "subquestion": "Do you like to frequent parks, trails, or nature preserves?"
+}

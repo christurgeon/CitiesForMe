@@ -1,0 +1,8 @@
+{
+  "name": "Restaurant Cost",
+  "type": "slider",
+  "leftLabel": "Lower",
+  "rightLabel": "Higher",
+  "question": "Do you care about average restaurant costs?",
+  "subquestion": "You can eat out frequently on a budget in some cities!"
+}

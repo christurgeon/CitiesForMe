@@ -1,0 +1,8 @@
+{
+  "name": "Safety",
+  "type": "slider",
+  "leftLabel": "Not Safe",
+  "rightLabel": "Very Safe",
+  "question": "How safe is this city?",
+  "subquestion": ""
+}

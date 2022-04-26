@@ -1,0 +1,8 @@
+{
+  "name": "Rainfall",
+  "type": "slider",
+  "leftLabel": "Less Rain",
+  "rightLabel": "More Rain",
+  "question": "Rainy days get you down?",
+  "subquestion": "Many US cities have only a handful of rainy days per year."
+}

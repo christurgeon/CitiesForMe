@@ -1,0 +1,8 @@
+{
+  "name": "Uppermost Capital Gains",
+  "type": "slider",
+  "leftLabel": "Lower",
+  "rightLabel": "Higher",
+  "question": "Do you want to limit capital gains taxes?",
+  "subquestion": "Are you an avid stock investor? Save money with the right zip code!"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Choose City",
+  "type": "text",
+  "leftLabel": "",
+  "rightLabel": "",
+  "question": "Type a name of a city you've lived in.",
+  "subquestion": ""
+}

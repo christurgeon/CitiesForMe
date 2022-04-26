@@ -1,0 +1,1116 @@
+state,city,county,zipcode,latitude,longitude,name,distance
+TX,Abilene,Taylor,79699,32.4543,-99.7384,"Pedernales Falls State Park, Johnson City",276.9577
+GA,Acworth,Cobb,30144,34.0566,-84.6715,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",12.3289
+SC,Aiken,Aiken,29803,33.531,-81.7268,"Lake Wateree State Recreation Area",123.0915
+OH,Akron,Summit,44398,41.0798,-81.5219,"Egypt Valley Wildlife Area",112.6189
+CA,Alameda,Alameda,94502,37.767,-122.2672,"Yosemite National Park, California",239.9492
+GA,Albany,Dougherty,31721,31.5776,-84.1762,"Okefenokee National Wildlife Refuge, Folkston",200.2649
+NY,Albany,Albany,12261,42.6664,-73.7987,"Ricketts Glen State Park",253.3025
+OR,Albany,Linn,97322,44.6274,-123.0966,"Siuslaw National Forest, Tidewater",65.3955
+NM,Albuquerque,Bernalillo,87199,35.1053,-106.6464,"Bandelier National Monument, Los Alamos",79.6138
+LA,Alexandria,Rapides,71348,31.2923,-92.4702,"Anahuac National Wildlife Refuge, Anahuac",266.3755
+VA,Alexandria,Alexandria,22334,38.8185,-77.0861,"Shenandoah National Park, Shenandoah",105.4395
+CA,Alhambra,Los Angeles,91899,34.084,-118.1355,"Topanga State Park, Topanga",41.6197
+CA,Aliso Viejo,Orange,92656,33.5792,-117.7289,"Topanga State Park, Topanga",97.7364
+TX,Allen,Collin,75013,33.1088,-96.6735,"Little Sandy National Wildlife Refuge, Lindale",142.8865
+PA,Allentown,Lehigh,18109,40.5961,-75.4756,"Ricketts Glen State Park",107.2732
+GA,Alpharetta,Fulton,30023,34.0704,-84.2739,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",30.0127
+FL,Altamonte Springs,Seminole,32716,28.6615,-81.3953,"Lake Eola Park, Orlando",13.1359
+PA,Altoona,Blair,16603,40.5082,-78.4007,"Rothrock State Forest, State College",53.8796
+TX,Alvin,Brazoria,77583,29.3871,-95.2933,"Anahuac National Wildlife Refuge, Anahuac",85.3899
+TX,Amarillo,Potter,79189,35.1988,-101.8311,"Bandelier National Monument, Los Alamos",410.5425
+IA,Ames,Story,50014,42.0259,-93.6215,"Eagle Bluffs Conservation Area, Columbia",367.3189
+CA,Anaheim,Orange,92899,33.839,-117.8572,"Topanga State Park, Topanga",73.0239
+AK,Anchorage,Anchorage,99599,61.1508,-149.1091,"Kenai Fjords National Park, Alaska",129.0065
+IN,Anderson,Madison,46018,40.0891,-85.6893,"Grant Park, Chicago",256.5322
+SC,Anderson,Anderson,29625,34.5211,-82.6479,"Kings Mountain State Park, Blacksburg",136.8382
+IA,Ankeny,Polk,50023,41.7285,-93.6033,"Eagle Bluffs Conservation Area, Columbia",335.2458
+MI,Ann Arbor,Washtenaw,48113,42.2755,-83.7312,"Grant Park, Chicago",324.1399
+VA,Annandale,Fairfax,22042,38.8324,-77.196,"Shenandoah National Park, Shenandoah",96.2061
+MD,Annapolis,Anne Arundel,21411,38.9706,-76.5047,"Shenandoah National Park, Shenandoah",157.7496
+AL,Anniston,Calhoun,36207,33.6712,-85.8136,"Ruffner Mountain Nature Center, Birmingham",83.666
+CA,Antioch,Contra Costa,94531,37.9789,-121.7958,"Yosemite National Park, California",198.415
+AZ,Apache Junction,Pinal,85178,33.3985,-111.5351,"Kartchner Caverns State Park, Benson",206.152
+NC,Apex,Wake,27539,35.7239,-78.8728,"Kings Mountain State Park, Blacksburg",233.5478
+FL,Apopka,Orange,32768,28.7014,-81.5304,"Lake Eola Park, Orlando",23.2125
+CA,Apple Valley,San Bernardino,92308,34.5328,-117.2104,"Topanga State Park, Topanga",135.5788
+WI,Appleton,Outagamie,54919,44.2779,-88.3891,"Grant Park, Chicago",274.1979
+CA,Arcadia,Los Angeles,91077,34.1342,-118.0373,"Topanga State Park, Topanga",50.8403
+TX,Arlington,Tarrant,76096,32.6998,-97.125,"Little Sandy National Wildlife Refuge, Lindale",173.7596
+VA,Arlington,Arlington,22246,38.8786,-77.1011,"Shenandoah National Park, Shenandoah",105.1572
+IL,Arlington Heights,Cook,60005,42.0955,-87.9825,"Grant Park, Chicago",38.4909
+CO,Arvada,Jefferson,80403,39.8321,-105.1511,"William F Hayden Green Mountain Park, Lakewood",14.5267
+VA,Ashburn,Loudoun,20189,39.03,-77.4711,"Shenandoah National Park, Shenandoah",80.0129
+NC,Asheboro,Randolph,27205,35.7158,-79.8129,"Kings Mountain State Park, Blacksburg",153.3608
+NC,Asheville,Buncombe,28816,35.5704,-82.5536,"Mount Mitchell State Park",31.4073
+AL,Athens,Limestone,35613,34.7847,-86.951,"Sipsey Wilderness, Mt Hope",67.0545
+GA,Athens,Clarke,30683,33.9508,-83.3689,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",111.6512
+GA,Atlanta,Fulton,31196,33.7627,-84.4224,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",27.8208
+AL,Auburn,Lee,36849,32.6087,-85.4899,"Ruffner Mountain Nature Center, Birmingham",154.9945
+WA,Auburn,King,98092,47.3039,-122.2108,"Mount Rainier National Park, Washington",59.6995
+GA,Augusta,Richmond,30999,33.3645,-82.0708,"Lake Wateree State Recreation Area",158.2828
+CO,Aurora,Adams,80247,39.7087,-104.7273,"Cherry Creek State Park, Aurora",11.768
+IL,Aurora,Kane,60599,41.7637,-88.2901,"Grant Park, Chicago",56.7747
+TX,Austin,Travis,78799,30.3004,-97.7522,"Pedernales Falls State Park, Johnson City",48.5388
+AZ,Avondale,Maricopa,85392,33.3858,-112.3236,"Kartchner Caverns State Park, Benson",252.7744
+CA,Azusa,Los Angeles,91702,34.1386,-117.9124,"Topanga State Park, Topanga",62.3369
+CA,Bakersfield,Kern,93390,35.3529,-119.0359,"Malibu Creek State Park, Calabasas",141.5071
+CA,Baldwin Park,Los Angeles,91706,34.0829,-117.9721,"Topanga State Park, Topanga",56.6663
+MO,Ballwin,St. Louis,63024,38.5951,-90.55,"Danville Conservation Area, New Florence",88.0997
+MD,Baltimore,Baltimore,21298,39.3051,-76.6144,"Shenandoah National Park, Shenandoah",159.8439
+LA,Baton Rouge,East Baton Rouge,70898,30.4418,-91.131,"Anahuac National Wildlife Refuge, Anahuac",332.5348
+MI,Battle Creek,Calhoun,49037,42.2986,-85.2296,"Grant Park, Chicago",202.9079
+MI,Bay City,Bay,48708,43.5903,-83.8886,"Grant Park, Chicago",359.5143
+NY,Bay Shore,Suffolk,11706,40.7317,-73.2505,"Ricketts Glen State Park",263.7536
+NJ,Bayonne,Hudson,7002,40.6661,-74.1141,"Ricketts Glen State Park",197.3638
+TX,Baytown,Harris,77522,29.7586,-94.9669,"Anahuac National Wildlife Refuge, Anahuac",52.6704
+SC,Beaufort,Beaufort,29906,32.4597,-80.7235,"Lake Wateree State Recreation Area",213.3874
+CA,Beaumont,Riverside,92223,33.9076,-116.9766,"Joshua Tree National Park, California",99.3497
+TX,Beaumont,Jefferson,77726,30.0849,-94.1451,"Anahuac National Wildlife Refuge, Anahuac",60.3698
+OR,Beaverton,Washington,97225,45.4779,-122.8168,"Mt. Hood National Forest, Oregon",68.9614
+MD,Bel Air,Harford,21014,39.5348,-76.346,"Rothrock State Forest, State College",182.3106
+CA,Bell Gardens,Los Angeles,90202,33.9663,-118.155,"Topanga State Park, Topanga",42.2636
+IL,Belleville,St. Clair,62226,38.5165,-89.99,"Danville Conservation Area, New Florence",137.0686
+NE,Bellevue,Sarpy,68157,41.1535,-95.9357,"El Dorado State Park, Kansas",372.2698
+WA,Bellevue,King,98015,47.5951,-122.1535,"Mount Rainier National Park, Washington",85.7933
+CA,Bellflower,Los Angeles,90707,33.888,-118.1271,"Topanga State Park, Topanga",48.1748
+WA,Bellingham,Whatcom,98229,48.7543,-122.4687,"Mount Rainier National Park, Washington",215.6476
+OR,Bend,Deschutes,97709,44.0562,-121.3087,"Willamette National Forest, Blue River",62.5726
+AR,Benton,Saline,72158,34.5775,-92.5712,"Hot Springs National Park, Hot Springs",43.5888
+AR,Bentonville,Benton,72712,36.3546,-94.2306,"Buffalo National River, St Joe",138.4393
+CA,Berkeley,Alameda,94720,37.8723,-122.276,"Yosemite National Park, California",240.3039
+IL,Berwyn,Cook,60402,41.8433,-87.7909,"Grant Park, Chicago",14.4746
+AL,Bessemer,Jefferson,35022,33.3709,-86.9713,"Ruffner Mountain Nature Center, Birmingham",32.2246
+MD,Bethesda,Montgomery,20894,38.9866,-77.1188,"Shenandoah National Park, Shenandoah",106.5253
+PA,Bethlehem,Northampton,18025,40.6266,-75.3679,"Ricketts Glen State Park",110.7918
+MT,Billings,Yellowstone,59117,45.7891,-108.5524,"Yellowstone National Park, Wyoming",219.7178
+MS,Biloxi,Harrison,39535,30.4422,-88.9512,"Gulf State Park, Gulf Shores",127.7327
+NY,Binghamton,Broome,13905,42.1014,-75.9093,"Ricketts Glen State Park",90.465
+AL,Birmingham,Jefferson,35298,33.5277,-86.7987,"Ruffner Mountain Nature Center, Birmingham",9.1818
+ND,Bismarck,Burleigh,58507,46.8144,-100.7694,"Fort Berthold Indian Reservation",153.7972
+VA,Blacksburg,Montgomery,24111,37.23,-80.4279,"Summit Bechtel Reserve, Glen Jean",97.8381
+IL,Bloomington,McLean,61791,40.4757,-88.9703,"Grant Park, Chicago",192.3399
+IN,Bloomington,Monroe,47408,39.1637,-86.5257,"Grant Park, Chicago",315.5479
+MO,Blue Springs,Jackson,64015,39.0124,-94.2721,"Eagle Bluffs Conservation Area, Columbia",160.2129
+FL,Boca Raton,Palm Beach,33499,26.3752,-80.108,"Oleta River State Park, North Miami",50.5672
+TX,Boerne,Kendall,78006,29.7844,-98.7289,"Pedernales Falls State Park, Johnson City",73.8064
+ID,Boise,Ada,83799,43.6007,-116.2312,"Bridge Creek Wildlife Area, Ukiah",269.218
+IL,Bolingbrook,Will,60490,41.6903,-88.1019,"Grant Park, Chicago",44.8615
+FL,Bonita Springs,Lee,34135,26.3559,-81.7861,"Myakka State Forest, Englewood",86.1328
+WA,Bonney Lake,Pierce,98391,47.1791,-122.17,"Mount Rainier National Park, Washington",47.2672
+LA,Bossier City,Bossier,71172,32.5227,-93.6666,"Little Sandy National Wildlife Refuge, Lindale",150.8056
+MA,Boston,Suffolk,02467,42.3188,-71.0846,"Odiorne Point State Park, Rye",86.488
+WA,Bothell,King,98041,47.7735,-122.2044,"Mount Rainier National Park, Washington",105.6728
+CO,Boulder,Boulder,80314,40.0249,-105.2523,"Golden Gate Canyon State Park",26.4116
+MD,Bowie,Prince George's,20721,38.9569,-76.7409,"Shenandoah National Park, Shenandoah",137.4098
+KY,Bowling Green,Warren,42104,36.9719,-86.4373,"Cades Cove, Great Smoky Mountains National Park, Tennessee",279.8283
+FL,Boynton Beach,Palm Beach,33474,26.5281,-80.0811,"Oleta River State Park, North Miami",67.7331
+MT,Bozeman,Gallatin,59719,45.6832,-111.0552,"Island Park, Idaho",142.6325
+FL,Bradenton,Manatee,34281,27.49,-82.5739,"Myakka State Forest, Englewood",62.5946
+FL,Brandon,Hillsborough,33619,27.9367,-82.3,"Myakka State Forest, Englewood",105.4561
+MS,Brandon,Rankin,39043,32.2778,-89.9896,"Gulf State Park, Gulf Shores",316.563
+WA,Bremerton,Kitsap,98367,47.5436,-122.7122,"Mount Rainier National Park, Washington",104.8034
+CA,Brentwood,Contra Costa,94513,37.9355,-121.7191,"Yosemite National Park, California",191.5003
+NY,Brentwood,Suffolk,11717,40.7839,-73.2522,"Ricketts Glen State Park",262.0909
+TN,Brentwood,Williamson,37027,35.9918,-86.7758,"Sipsey Wilderness, Mt Hope",194.035
+CT,Bridgeport,Fairfield,06610,41.1918,-73.1953,"Ricketts Glen State Park",259.1991
+CO,Brighton,Adams,80603,39.9716,-104.7964,"Cherry Creek State Park, Aurora",36.9995
+CT,Bristol,Hartford,06011,41.6812,-72.9407,"Odiorne Point State Park, Rye",237.502
+MA,Brockton,Plymouth,02305,42.0821,-71.0242,"Odiorne Point State Park, Rye",110.3616
+OK,Broken Arrow,Tulsa,74014,36.0365,-95.7809,"El Dorado State Park, Kansas",221.1491
+NY,Bronx,Bronx,10475,40.8501,-73.8662,"Ricketts Glen State Park",210.2943
+NY,Brooklyn,Kings,11239,40.6501,-73.9496,"Ricketts Glen State Park",210.863
+FL,Brooksville,Hernando,34603,28.5404,-82.3903,"Lake Eola Park, Orlando",99.3854
+CO,Broomfield,Broomfield,80516,39.9541,-105.0527,"William F Hayden Green Mountain Park, Lakewood",29.8474
+TX,Brownsville,Cameron,78578,25.998,-97.4565,"Pedernales Falls State Park, Johnson City",485.647
+GA,Brunswick,Glynn,31521,31.145,-81.474,"Okefenokee National Wildlife Refuge, Folkston",88.338
+TX,Bryan,Brazos,77808,30.6657,-96.3668,"Pedernales Falls State Park, Johnson City",185.5019
+AZ,Buckeye,Maricopa,85396,33.4314,-112.6429,"Kartchner Caverns State Park, Benson",278.5788
+CA,Buena Park,Orange,90624,33.8572,-118.0046,"Topanga State Park, Topanga",59.798
+NY,Buffalo,Erie,14280,42.9016,-78.8487,"Rothrock State Forest, State College",256.8708
+GA,Buford,Gwinnett,30519,34.1185,-83.9916,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",56.3936
+CA,Burbank,Los Angeles,91526,34.1879,-118.3235,"Topanga State Park, Topanga",26.4656
+TX,Burleson,Johnson,76097,32.517,-97.3343,"Little Sandy National Wildlife Refuge, Lindale",193.3033
+NC,Burlington,Alamance,27217,36.0758,-79.4686,"Kings Mountain State Park, Blacksburg",199.5988
+MN,Burnsville,Dakota,55337,44.7648,-93.2795,"Wisconsin Interstate State Park",86.2849
+PA,Butler,Butler,16003,40.8616,-79.8962,"Hillman State Park, Burgettstown",62.2015
+ID,Caldwell,Canyon,83607,43.6453,-116.6591,"Bridge Creek Wildlife Area, Ukiah",239.4359
+CA,Camarillo,Ventura,93012,34.223,-119.0322,"Malibu Creek State Park, Calabasas",30.6279
+MA,Cambridge,Middlesex,02477,42.3759,-71.1185,"Odiorne Point State Park, Rye",81.6161
+NJ,Camden,Camden,08105,39.9362,-75.1073,"Ricketts Glen State Park",185.2086
+GA,Canton,Cherokee,30114,34.2467,-84.49,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",31.1593
+OH,Canton,Stark,44799,40.8075,-81.3677,"Egypt Valley Wildlife Area",79.8837
+FL,Cape Coral,Lee,33993,26.6446,-81.9956,"Myakka State Forest, Englewood",47.9059
+PA,Carlisle,Cumberland,17013,40.1999,-77.2042,"Rothrock State Forest, State College",78.282
+CA,Carlsbad,San Diego,92018,33.1247,-117.2837,"Joshua Tree National Park, California",153.4026
+IN,Carmel,Hamilton,46290,39.965,-86.146,"Grant Park, Chicago",246.0645
+CA,Carmichael,Sacramento,95841,38.6337,-121.323,"Sand Harbor State Park, Incline Village",135.8155
+GA,Carrollton,Carroll,30118,33.5817,-85.0837,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",64.0346
+TX,Carrollton,Dallas,75011,32.989,-96.8999,"Little Sandy National Wildlife Refuge, Lindale",158.3312
+CA,Carson,Los Angeles,90895,33.8374,-118.2559,"Topanga State Park, Topanga",41.7504
+NV,Carson City,Carson City,89714,39.1512,-119.7474,"Sand Harbor State Park, Incline Village",16.6714
+GA,Cartersville,Bartow,30121,34.1639,-84.8007,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",29.1749
+NC,Cary,Wake,27560,35.782,-78.8191,"Kings Mountain State Park, Blacksburg",240.0093
+AZ,Casa Grande,Pinal,85194,32.9068,-111.7624,"Kartchner Caverns State Park, Benson",178.3097
+WY,Casper,Natrona,82609,42.842,-106.3207,"Bear Butte State Park, Sturgis",295.3888
+CO,Castle Rock,Douglas,80109,39.3763,-104.8535,"Castlewood Canyon State Park, Colorado",12.3153
+CA,Castro Valley,Alameda,94578,37.7091,-122.0631,"Yosemite National Park, California",222.5383
+CA,Cathedral City,Riverside,92241,33.8363,-116.4642,"Joshua Tree National Park, California",52.2828
+MD,Catonsville,Baltimore,21250,39.2646,-76.7424,"Shenandoah National Park, Shenandoah",147.9516
+TX,Cedar Hill,Dallas,75106,32.581,-96.9591,"Little Sandy National Wildlife Refuge, Lindale",157.9124
+TX,Cedar Park,Williamson,78630,30.5106,-97.8196,"Pedernales Falls State Park, Johnson City",47.6705
+IA,Cedar Rapids,Linn,52499,41.9665,-91.6782,"Grant Park, Chicago",335.7203
+VA,Centreville,Fairfax,20124,38.8391,-77.4388,"Shenandoah National Park, Shenandoah",75.615
+CA,Cerritos,Los Angeles,90703,33.8677,-118.0686,"Topanga State Park, Topanga",54.002
+PA,Chambersburg,Franklin,17201,39.9315,-77.6556,"Rothrock State Forest, State College",88.9366
+IL,Champaign,Champaign,61826,40.1144,-88.2735,"Grant Park, Chicago",203.4195
+AZ,Chandler,Maricopa,85286,33.2826,-111.8516,"Kartchner Caverns State Park, Benson",213.7506
+VA,Chantilly,Fairfax,20153,38.8868,-77.4453,"Shenandoah National Park, Shenandoah",76.3053
+NC,Chapel Hill,Orange,27599,35.927,-79.0391,"Kings Mountain State Park, Blacksburg",226.7163
+SC,Charleston,Charleston,29492,32.8153,-79.9628,"Lake Wateree State Recreation Area",192.4672
+WV,Charleston,Kanawha,25396,38.3484,-81.6323,"Offshore Trap/Pot Waters Area, Western Atlantic Ocean",50.3381
+NC,Charlotte,Mecklenburg,28299,35.208,-80.8304,"Kings Mountain State Park, Blacksburg",47.6031
+VA,Charlottesville,Charlottesville,22909,38.0375,-78.4855,"Shenandoah National Park, Shenandoah",75.6159
+TN,Chattanooga,Hamilton,37450,35.0657,-85.2488,"Chattahoochee National Forest, Suches",106.146
+VA,Chesapeake,Chesapeake,23328,36.6778,-76.3024,"Shenandoah National Park, Shenandoah",285.0407
+MO,Chesterfield,St. Louis,63017,38.6588,-90.5804,"Danville Conservation Area, New Florence",83.3717
+WY,Cheyenne,Laramie,82009,41.1351,-104.79,"Golden Gate Canyon State Park",155.5385
+IL,Chicago,Cook,60827,41.8373,-87.6862,"Grant Park, Chicago",6.8801
+IL,Chicago Heights,Cook,60412,41.5101,-87.6345,"Grant Park, Chicago",40.7514
+CA,Chico,Butte,95976,39.7575,-121.8152,"Whiskeytown National Recreation Area, Whiskeytown",116.3414
+MA,Chicopee,Hampden,01022,42.1764,-72.5719,"Odiorne Point State Park, Rye",179.9291
+OH,Chillicothe,Ross,45601,39.3393,-82.9937,"Offshore Trap/Pot Waters Area, Western Atlantic Ocean",172.1034
+CA,Chino,San Bernardino,91710,33.9836,-117.6654,"Topanga State Park, Topanga",85.8175
+CA,Chino Hills,San Bernardino,91709,33.9508,-117.7253,"Topanga State Park, Topanga",81.0063
+CA,Chula Vista,San Diego,91921,32.6281,-117.0145,"Joshua Tree National Park, California",173.6717
+IL,Cicero,Cook,60804,41.8445,-87.7593,"Grant Park, Chicago",11.922
+OH,Cincinnati,Hamilton,45299,39.1413,-84.5061,"Offshore Trap/Pot Waters Area, Western Atlantic Ocean",252.123
+CA,Citrus Heights,Sacramento,95621,38.6948,-121.288,"Sand Harbor State Park, Incline Village",130.0265
+NC,Clayton,Johnston,27528,35.6591,-78.4499,"Lake Wateree State Recreation Area",262.0794
+UT,Clearfield,Davis,84089,41.103,-112.0237,"Manti-La Sal National Forest, Price",219.9579
+FL,Clearwater,Pinellas,33769,27.9789,-82.7622,"Myakka State Forest, Englewood",119.7176
+FL,Clermont,Lake,34713,28.5402,-81.7259,"Lake Eola Park, Orlando",34.4897
+OH,Cleveland,Cuyahoga,44199,41.4767,-81.6804,"Hillman State Park, Burgettstown",156.46
+TN,Cleveland,Bradley,37320,35.1817,-84.8707,"Chattahoochee National Forest, Suches",80.7889
+NJ,Clifton,Passaic,07015,40.8631,-74.1575,"Ricketts Glen State Park",186.3904
+CA,Clovis,Fresno,93747,36.8278,-119.6831,"Kings Canyon National Park, California",100.5755
+PA,Coatesville,Chester,19320,39.9849,-75.8199,"Ricketts Glen State Park",155.7311
+FL,Cocoa,Brevard,32926,28.382,-80.7674,"Little Big Econ State Forest",46.2258
+TX,College Station,Brazos,77881,30.5852,-96.296,"Pedernales Falls State Park, Johnson City",190.5593
+TN,Collierville,Shelby,38139,35.0471,-89.6988,"Sipsey Wilderness, Mt Hope",221.7357
+CO,Colorado Springs,El Paso,80997,38.8674,-104.7606,"Garden of Gods, Colorado Springs",10.9372
+CA,Colton,San Bernardino,92324,34.0538,-117.3254,"Topanga State Park, Topanga",116.3106
+MD,Columbia,Howard,21150,39.2004,-76.859,"Shenandoah National Park, Shenandoah",135.8669
+MO,Columbia,Boone,65299,38.9478,-92.3256,"Eagle Bluffs Conservation Area, Columbia",14.3311
+SC,Columbia,Richland,29250,34.0376,-80.9037,"Lake Wateree State Recreation Area",37.7187
+TN,Columbia,Maury,38402,35.6235,-87.0486,"Sipsey Wilderness, Mt Hope",147.8519
+GA,Columbus,Muscogee,31999,32.51,-84.8771,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",165.3907
+IN,Columbus,Bartholomew,47203,39.2093,-85.9183,"Grant Park, Chicago",329.6458
+MS,Columbus,Lowndes,39705,33.5088,-88.4096,"Sipsey Wilderness, Mt Hope",128.333
+OH,Columbus,Franklin,43291,39.9862,-82.985,"Egypt Valley Wildlife Area",159.8904
+CO,Commerce City,Adams,80640,39.8642,-104.8434,"Cherry Creek State Park, Aurora",24.9524
+CA,Compton,Los Angeles,90223,33.893,-118.2275,"Topanga State Park, Topanga",39.9485
+CA,Concord,Contra Costa,94527,37.9722,-122.0016,"Yosemite National Park, California",216.3994
+NC,Concord,Cabarrus,28027,35.3933,-80.6366,"Kings Mountain State Park, Blacksburg",70.6833
+TX,Conroe,Montgomery,77384,30.3239,-95.4825,"Anahuac National Wildlife Refuge, Anahuac",127.3022
+AR,Conway,Faulkner,72035,35.0754,-92.4694,"Hot Springs National Park, Hot Springs",80.8029
+SC,Conway,Horry,29528,33.8399,-79.0424,"Lake Wateree State Recreation Area",177.9123
+GA,Conyers,Rockdale,30094,33.6645,-83.9966,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",64.0222
+TN,Cookeville,Putnam,38506,36.1484,-85.5114,"Cades Cove, Great Smoky Mountains National Park, Tennessee",163.9934
+FL,Coral Springs,Broward,33077,26.2702,-80.2591,"Oleta River State Park, North Miami",40.4178
+CA,Corona,Riverside,92882,33.8616,-117.5649,"Topanga State Park, Topanga",97.7295
+TX,Corpus Christi,Nueces,78480,27.726,-97.3755,"Pedernales Falls State Park, Johnson City",299.6508
+OR,Corvallis,Benton,97339,44.5697,-123.278,"Siuslaw National Forest, Tidewater",49.692
+CA,Costa Mesa,Orange,92628,33.6667,-117.9135,"Topanga State Park, Topanga",78.2184
+IA,Council Bluffs,Pottawattamie,51503,41.2369,-95.8517,"El Dorado State Park, Kansas",382.7658
+CA,Covina,Los Angeles,91724,34.0903,-117.8817,"Topanga State Park, Topanga",64.9776
+GA,Covington,Newton,30015,33.6049,-83.8465,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",79.3114
+LA,Covington,St. Tammany,70433,30.4808,-90.1122,"Gulf State Park, Gulf Shores",238.7503
+RI,Cranston,Providence,02921,41.7658,-71.4857,"Odiorne Point State Park, Rye",155.9147
+FL,Crestview,Okaloosa,32539,30.748,-86.5784,"Gulf State Park, Gulf Shores",114.8186
+TN,Crossville,Cumberland,38571,35.9527,-85.0294,"Cades Cove, Great Smoky Mountains National Park, Tennessee",115.758
+IN,Crown Point,Lake,46308,41.4141,-87.3457,"Grant Park, Chicago",56.302
+IL,Crystal Lake,McHenry,60039,42.2333,-88.3351,"Grant Park, Chicago",71.005
+CA,Culver City,Los Angeles,90233,34.0058,-118.3968,"Topanga State Park, Topanga",20.0625
+GA,Cumming,Forsyth,30041,34.2064,-84.1337,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",48.3415
+CA,Cupertino,Santa Clara,95170,37.3168,-122.0465,"Yosemite National Park, California",229.2404
+CA,Cypress,Orange,90630,33.8171,-118.0386,"Topanga State Park, Topanga",59.1928
+GA,Dallas,Paulding,30157,33.9153,-84.8416,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",25.1427
+TX,Dallas,Dallas,75398,32.7936,-96.7662,"Little Sandy National Wildlife Refuge, Lindale",141.4786
+GA,Dalton,Whitfield,30722,34.769,-84.9712,"Chattahoochee National Forest, Suches",75.6041
+CA,Daly City,San Mateo,94017,37.6862,-122.4685,"Yosemite National Park, California",258.2895
+CT,Danbury,Fairfield,06813,41.4016,-73.471,"Ricketts Glen State Park",235.3641
+CA,Danville,Contra Costa,94526,37.8121,-121.9698,"Yosemite National Park, California",213.5955
+VA,Danville,Danville,24541,36.5831,-79.4087,"Summit Bechtel Reserve, Glen Jean",212.1072
+FL,Davenport,Polk,33844,28.1588,-81.6084,"Lake Eola Park, Orlando",48.7404
+IA,Davenport,Scott,52809,41.5563,-90.6052,"Grant Park, Chicago",250.1514
+CA,Davis,Yolo,95618,38.5552,-121.7365,"Sand Harbor State Park, Incline Village",171.875
+OH,Dayton,Montgomery,45490,39.7797,-84.1998,"Egypt Valley Wildlife Area",265.6658
+FL,Daytona Beach,Volusia,32198,29.1994,-81.0982,"Little Big Econ State Forest",58.4561
+MI,Dearborn,Wayne,48128,42.3127,-83.2129,"Egypt Valley Wildlife Area",300.8299
+MI,Dearborn Heights,Wayne,48127,42.3164,-83.2769,"Egypt Valley Wildlife Area",304.3112
+AL,Decatur,Morgan,35609,34.573,-86.9906,"Sipsey Wilderness, Mt Hope",48.7521
+GA,Decatur,DeKalb,30036,33.7711,-84.2968,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",34.6491
+IL,Decatur,Macon,62535,39.8556,-88.9337,"Danville Conservation Area, New Florence",246.9543
+FL,Deerfield Beach,Broward,33443,26.305,-80.1277,"Oleta River State Park, North Miami",42.6632
+CA,Delano,Kern,93215,35.767,-119.2637,"Kings Canyon National Park, California",139.865
+OH,Delaware,Delaware,43015,40.2866,-83.0747,"Egypt Valley Wildlife Area",167.5925
+FL,Delray Beach,Palm Beach,33483,26.455,-80.0905,"Oleta River State Park, North Miami",59.5532
+FL,Deltona,Volusia,32739,28.905,-81.2137,"Little Big Econ State Forest",27.8316
+LA,Denham Springs,Livingston,70726,30.4743,-90.9594,"Gulf State Park, Gulf Shores",319.6626
+TX,Denton,Denton,76259,33.2176,-97.1419,"Little Sandy National Wildlife Refuge, Lindale",187.8192
+CO,Denver,Denver,80299,39.7621,-104.8759,"Cherry Creek State Park, Aurora",14.0928
+IA,Des Moines,Polk,50983,41.5725,-93.6105,"Eagle Bluffs Conservation Area, Columbia",318.9478
+IL,Des Plaines,Cook,60019,42.0345,-87.9009,"Grant Park, Chicago",29.002
+MI,Detroit,Wayne,48288,42.3834,-83.1024,"Egypt Valley Wildlife Area",302.0147
+AL,Dothan,Houston,36321,31.2335,-85.4069,"Gulf State Park, Gulf Shores",238.8269
+GA,Douglasville,Douglas,30154,33.7384,-84.7065,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",28.9565
+DE,Dover,Kent,19906,39.161,-75.5203,"Shenandoah National Park, Shenandoah",245.2044
+IL,Downers Grove,DuPage,60516,41.7949,-88.017,"Grant Park, Chicago",33.9671
+CA,Downey,Los Angeles,90242,33.9379,-118.1312,"Topanga State Park, Topanga",45.4472
+PA,Downingtown,Chester,19335,40.0076,-75.7019,"Ricketts Glen State Park",156.1618
+UT,Draper,Salt Lake,84020,40.4957,-111.8605,"Manti-La Sal National Forest, Price",151.1893
+CA,Dublin,Alameda,94568,37.7161,-121.8963,"Yosemite National Park, California",207.8562
+OH,Dublin,Franklin,43017,40.1112,-83.1454,"Egypt Valley Wildlife Area",172.7369
+IA,Dubuque,Dubuque,52099,42.5008,-90.7067,"Grant Park, Chicago",263.4467
+GA,Duluth,Gwinnett,30098,34.0053,-84.1492,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",39.7705
+MN,Duluth,St. Louis,55816,46.7756,-92.1392,"Wisconsin Interstate State Park",158.0238
+MD,Dundalk,Baltimore,21224,39.2703,-76.4942,"Shenandoah National Park, Shenandoah",167.8599
+NC,Durham,Durham,27722,35.9794,-78.9031,"Kings Mountain State Park, Blacksburg",240.2542
+TX,Eagle Pass,Maverick,78852,28.7125,-100.484,"Pedernales Falls State Park, Johnson City",279.0741
+SC,Easley,Pickens,29642,34.819,-82.5828,"Mount Mitchell State Park",108.5569
+MI,East Lansing,Ingham,48826,42.748,-84.4835,"Grant Park, Chicago",275.6357
+NJ,East Orange,Essex,07019,40.7651,-74.2117,"Ricketts Glen State Park",185.6242
+PA,Easton,Northampton,18044,40.6858,-75.2209,"Ricketts Glen State Park",115.4601
+WI,Eau Claire,Eau Claire,54703,44.8199,-91.4949,"Wisconsin Interstate State Park",110.8427
+MN,Eden Prairie,Hennepin,55347,44.8488,-93.4595,"Wisconsin Interstate State Park",88.4173
+TX,Edinburg,Hidalgo,78542,26.3197,-98.1596,"Pedernales Falls State Park, Johnson City",443.5903
+OK,Edmond,Oklahoma,73034,35.6689,-97.4159,"El Dorado State Park, Kansas",251.2616
+WA,Edmonds,Snohomish,98026,47.8115,-122.3533,"Mount Rainier National Park, Washington",113.8255
+CA,El Cajon,San Diego,92021,32.8017,-116.9605,"Joshua Tree National Park, California",155.3008
+CA,El Centro,Imperial,92244,32.7867,-115.5586,"Joshua Tree National Park, California",125.8543
+CA,El Monte,Los Angeles,91735,34.0739,-118.0291,"Topanga State Park, Topanga",51.4532
+IL,Elgin,Kane,60124,42.0385,-88.3229,"Grant Park, Chicago",60.7015
+NJ,Elizabeth,Union,07208,40.6657,-74.1912,"Ricketts Glen State Park",191.4113
+KY,Elizabethtown,Hardin,42702,37.703,-85.877,"Cades Cove, Great Smoky Mountains National Park, Tennessee",297.513
+CA,Elk Grove,Sacramento,95759,38.416,-121.3842,"Sand Harbor State Park, Incline Village",153.046
+IN,Elkhart,Elkhart,46517,41.6916,-85.9628,"Grant Park, Chicago",139.0863
+MD,Ellicott City,Howard,21043,39.2773,-76.8344,"Shenandoah National Park, Shenandoah",141.4148
+OH,Elyria,Lorain,44036,41.3761,-82.1063,"Egypt Valley Wildlife Area",163.2006
+CA,Encinitas,San Diego,92075,33.049,-117.2613,"Joshua Tree National Park, California",156.5442
+CO,Englewood,Arapahoe,80151,39.6468,-104.9942,"Cherry Creek State Park, Aurora",13.9206
+OK,Enid,Garfield,73706,36.4061,-97.8701,"El Dorado State Park, Kansas",189.972
+PA,Erie,Erie,16553,42.1168,-80.0733,"Hillman State Park, Burgettstown",186.938
+CA,Escondido,San Diego,92046,33.1347,-117.0722,"Joshua Tree National Park, California",136.7491
+OR,Eugene,Lane,97440,44.0563,-123.1173,"Siuslaw National Forest, Tidewater",66.0129
+TX,Euless,Tarrant,76051,32.8508,-97.0799,"Little Sandy National Wildlife Refuge, Lindale",171.4262
+CA,Eureka,Humboldt,95534,40.7942,-124.1568,"Redwood National and State Parks",48.3068
+GA,Evans,Columbia,30809,33.5619,-82.1351,"Lake Wateree State Recreation Area",148.0832
+IL,Evanston,Cook,60208,42.0463,-87.6942,"Grant Park, Chicago",19.8087
+IN,Evansville,Vanderburgh,47750,37.9881,-87.5341,"Danville Conservation Area, New Florence",359.3434
+WA,Everett,Snohomish,98275,47.9525,-122.1669,"Mount Rainier National Park, Washington",123.7694
+HI,Ewa Beach,Honolulu,96709,21.3181,-158.0073,"Honolulu Watershed Forest Preserve, Honolulu",23.9429
+AK,Fairbanks,Fairbanks North Star,99707,64.8353,-147.6534,"Denali National Park and Preserve, Alaska",256.522
+VA,Fairfax,Fairfax,22037,38.8531,-77.2998,"Shenandoah National Park, Shenandoah",87.7265
+CA,Fairfield,Solano,94585,38.2592,-122.0324,"Sand Harbor State Park, Incline Village",210.0731
+MA,Fall River,Bristol,02790,41.7137,-71.1014,"Odiorne Point State Park, Rye",151.7461
+VA,Falls Church,Falls Church,22046,38.8847,-77.1751,"Shenandoah National Park, Shenandoah",98.9998
+ND,Fargo,Cass,58126,46.8652,-96.8292,"Maplewood State Park, Pelican Rapids",77.1066
+MI,Farmington,Oakland,48336,42.4614,-83.3784,"Egypt Valley Wildlife Area",322.2075
+NM,Farmington,San Juan,87415,36.7555,-108.1823,"Mesa Verde National Park, Mesa Verde",58.3988
+AR,Fayetteville,Washington,72704,36.0713,-94.166,"Buffalo National River, St Joe",127.005
+GA,Fayetteville,Fayette,30215,33.45,-84.4709,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",59.3808
+NC,Fayetteville,Cumberland,28390,35.0846,-78.9776,"Lake Wateree State Recreation Area",189.5336
+WA,Federal Way,King,98093,47.3091,-122.3358,"Mount Rainier National Park, Washington",66.3439
+OH,Findlay,Hancock,45840,41.0467,-83.6379,"Egypt Valley Wildlife Area",236.9461
+IN,Fishers,Hamilton,46256,39.9589,-85.9661,"Grant Park, Chicago",254.5861
+AZ,Flagstaff,Coconino,86011,35.1872,-111.6195,"Petrified Forest National Park, Arizona",167.865
+MI,Flint,Genesee,48557,43.0235,-83.6922,"Grant Park, Chicago",346.6857
+AL,Florence,Lauderdale,35633,34.8303,-87.6654,"Sipsey Wilderness, Mt Hope",59.2904
+KY,Florence,Boone,41042,38.99,-84.647,"Offshore Trap/Pot Waters Area, Western Atlantic Ocean",255.2999
+SC,Florence,Florence,29506,34.1781,-79.7877,"Lake Wateree State Recreation Area",101.2472
+MO,Florissant,St. Louis,63033,38.7996,-90.3269,"Danville Conservation Area, New Florence",102.292
+TX,Flower Mound,Denton,76262,33.0344,-97.1146,"Little Sandy National Wildlife Refuge, Lindale",178.9703
+CA,Folsom,Sacramento,95763,38.6668,-121.1422,"Sand Harbor State Park, Incline Village",120.2884
+CA,Fontana,San Bernardino,92402,34.0968,-117.4599,"Topanga State Park, Topanga",103.8147
+CO,Fort Collins,Larimer,80553,40.5478,-105.0656,"Golden Gate Canyon State Park",86.2415
+FL,Fort Lauderdale,Broward,33394,26.1412,-80.1464,"Oleta River State Park, North Miami",24.4177
+SC,Fort Mill,York,29716,35.0062,-80.9388,"Kings Mountain State Park, Blacksburg",39.5035
+FL,Fort Myers,Lee,33994,26.6195,-81.8303,"Myakka State Forest, Englewood",61.0977
+FL,Fort Pierce,St. Lucie,34982,27.4256,-80.3431,"Kissimmee Prairie Preserve State Park, Okeechobee",73.0592
+AR,Fort Smith,Sebastian,72923,35.3493,-94.3695,"Hot Springs National Park, Hot Springs",152.0168
+FL,Fort Walton Beach,Okaloosa,32549,30.4249,-86.6194,"Gulf State Park, Gulf Shores",99.238
+MD,Fort Washington,Prince George's,20749,38.7339,-77.0069,"Shenandoah National Park, Shenandoah",111.6151
+IN,Fort Wayne,Allen,46897,41.0886,-85.1437,"Grant Park, Chicago",224.2475
+TX,Fort Worth,Tarrant,76262,32.7811,-97.3473,"Little Sandy National Wildlife Refuge, Lindale",195.2111
+CA,Fountain Valley,Orange,92728,33.7105,-117.9514,"Topanga State Park, Topanga",72.4923
+MA,Framingham,Middlesex,01705,42.3085,-71.4368,"Odiorne Point State Park, Rye",101.0531
+KY,Frankfort,Franklin,40622,38.1924,-84.8643,"Offshore Trap/Pot Waters Area, Western Atlantic Ocean",251.5495
+TN,Franklin,Williamson,37069,35.9216,-86.8525,"Sipsey Wilderness, Mt Hope",184.5131
+MD,Frederick,Frederick,21709,39.4336,-77.4141,"Shenandoah National Park, Shenandoah",111.3458
+VA,Fredericksburg,Fredericksburg,22412,38.2992,-77.4872,"Shenandoah National Park, Shenandoah",83.0944
+CA,Fremont,Alameda,94555,37.5265,-121.9852,"Yosemite National Park, California",218.5485
+CA,Fresno,Fresno,93844,36.7831,-119.7941,"Kings Canyon National Park, California",110.8748
+TX,Friendswood,Galveston,77549,29.5111,-95.1979,"Anahuac National Wildlife Refuge, Anahuac",73.2616
+TX,Frisco,Collin,75036,33.1555,-96.8215,"Little Sandy National Wildlife Refuge, Lindale",157.5986
+CA,Fullerton,Orange,92838,33.8841,-117.9279,"Topanga State Park, Topanga",65.0899
+AL,Gadsden,Etowah,35904,34.009,-86.0156,"Ruffner Mountain Nature Center, Birmingham",81.1602
+FL,Gainesville,Alachua,32653,29.6804,-82.3458,"Okefenokee National Wildlife Refuge, Folkston",121.6241
+GA,Gainesville,Hall,30507,34.2903,-83.8301,"Chattahoochee National Forest, Suches",60.1825
+MD,Gaithersburg,Montgomery,20899,39.1346,-77.2132,"Shenandoah National Park, Shenandoah",105.1274
+TN,Gallatin,Sumner,37066,36.3782,-86.4696,"Sipsey Wilderness, Mt Hope",243.7758
+TX,Galveston,Galveston,77555,29.2487,-94.891,"Anahuac National Wildlife Refuge, Anahuac",58.7228
+CA,Garden Grove,Orange,92846,33.7787,-117.9601,"Topanga State Park, Topanga",67.609
+CA,Gardena,Los Angeles,90249,33.8944,-118.3073,"Topanga State Park, Topanga",33.9852
+TX,Garland,Dallas,75049,32.91,-96.6305,"Little Sandy National Wildlife Refuge, Lindale",131.7591
+NC,Garner,Wake,27699,35.6934,-78.6196,"Lake Wateree State Recreation Area",251.4319
+IN,Gary,Lake,46409,41.5906,-87.3472,"Grant Park, Chicago",39.1143
+NC,Gastonia,Gaston,28056,35.2494,-81.1853,"Kings Mountain State Park, Blacksburg",19.6648
+TX,Georgetown,Williamson,78633,30.6668,-97.6953,"Pedernales Falls State Park, Johnson City",67.0487
+MD,Germantown,Montgomery,20876,39.1755,-77.2643,"Shenandoah National Park, Shenandoah",103.4442
+WA,Gig Harbor,Pierce,98335,47.3353,-122.5964,"Mount Rainier National Park, Washington",83.0278
+AZ,Gilbert,Maricopa,85299,33.3101,-111.7463,"Kartchner Caverns State Park, Benson",209.7413
+CA,Gilroy,Santa Clara,95020,37.0047,-121.5855,"Yosemite National Park, California",204.5032
+VA,Glen Allen,Henrico,23060,37.666,-77.4838,"Shenandoah National Park, Shenandoah",135.0209
+MD,Glen Burnie,Anne Arundel,21108,39.1559,-76.6072,"Shenandoah National Park, Shenandoah",154.3389
+AZ,Glendale,Maricopa,85355,33.5791,-112.2311,"Kartchner Caverns State Park, Benson",261.8348
+CA,Glendale,Los Angeles,91226,34.1818,-118.2468,"Topanga State Park, Topanga",32.8523
+CA,Glendora,Los Angeles,91741,34.1449,-117.8468,"Topanga State Park, Topanga",68.4107
+IL,Glenview,Cook,60026,42.0825,-87.8216,"Grant Park, Chicago",28.2382
+CO,Golden,Jefferson,80419,39.7406,-105.2118,"William F Hayden Green Mountain Park, Lakewood",5.2161
+NC,Goldsboro,Wayne,27534,35.3778,-77.972,"Lake Wateree State Recreation Area",286.3474
+CA,Goleta,Santa Barbara,93118,34.436,-119.8596,"Channel Islands National Park, Ventura",49.3477
+AZ,Goodyear,Maricopa,85395,33.2613,-112.3622,"Kartchner Caverns State Park, Benson",246.4172
+SC,Goose Creek,Berkeley,29445,32.9925,-80.0054,"Lake Wateree State Recreation Area",173.0351
+IN,Goshen,Elkhart,46528,41.5743,-85.8308,"Grant Park, Chicago",152.3885
+TX,Granbury,Hood,76049,32.4484,-97.7685,"Little Sandy National Wildlife Refuge, Lindale",234.4465
+ND,Grand Forks,Grand Forks,58208,47.9218,-97.0886,"Maplewood State Park, Pelican Rapids",177.8608
+NE,Grand Island,Hall,68803,40.9214,-98.3584,"El Dorado State Park, Kansas",366.5343
+CO,Grand Junction,Mesa,81507,39.0876,-108.5673,"Arches National Park, Utah",97.0697
+TX,Grand Prairie,Dallas,75265,32.6872,-97.0209,"Little Sandy National Wildlife Refuge, Lindale",163.9523
+MI,Grand Rapids,Kent,49599,42.962,-85.6562,"Grant Park, Chicago",201.5005
+OR,Grants Pass,Josephine,97528,42.4333,-123.3317,"Redwood National and State Parks",146.6817
+TX,Grapevine,Tarrant,76099,32.9343,-97.0744,"Little Sandy National Wildlife Refuge, Lindale",172.655
+MT,Great Falls,Cascade,59406,47.5022,-111.2995,"National Bison Range, Montana",219.6527
+CO,Greeley,Weld,80639,40.4151,-104.7706,"Golden Gate Canyon State Park",85.3656
+WI,Green Bay,Brown,54311,44.515,-87.9896,"Grant Park, Chicago",294.9011
+NC,Greensboro,Guilford,27499,36.0956,-79.8269,"Kings Mountain State Park, Blacksburg",174.2405
+PA,Greensburg,Westmoreland,15606,40.3113,-79.5444,"Hillman State Park, Burgettstown",74.2521
+NC,Greenville,Pitt,27858,35.5956,-77.3768,"Lake Wateree State Recreation Area",345.3896
+SC,Greenville,Greenville,29616,34.8353,-82.3647,"Kings Mountain State Park, Blacksburg",98.4877
+IN,Greenwood,Johnson,46184,39.6019,-86.1073,"Grant Park, Chicago",283.2745
+SC,Greenwood,Greenwood,29649,34.1945,-82.1542,"Lake Wateree State Recreation Area",120.2719
+SC,Greer,Greenville,29652,34.9313,-82.2315,"Kings Mountain State Park, Blacksburg",83.6603
+OR,Gresham,Multnomah,97233,45.5023,-122.4413,"Mt. Hood National Forest, Oregon",39.9774
+LA,Gretna,Jefferson,70056,29.9101,-90.0515,"Gulf State Park, Gulf Shores",235.6528
+GA,Griffin,Spalding,30224,33.2418,-84.2747,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",86.4104
+OH,Grove City,Franklin,43123,39.8659,-83.0694,"Egypt Valley Wildlife Area",168.8689
+MS,Gulfport,Harrison,39507,30.4271,-89.0703,"Gulf State Park, Gulf Shores",138.8113
+CA,Hacienda Heights,Los Angeles,91745,33.997,-117.9728,"Topanga State Park, Topanga",57.6203
+MD,Hagerstown,Washington,21749,39.6401,-77.7217,"Shenandoah National Park, Shenandoah",115.4911
+OH,Hamilton,Butler,45015,39.3938,-84.5653,"Offshore Trap/Pot Waters Area, Western Atlantic Ocean",271.2414
+IN,Hammond,Lake,46394,41.6169,-87.491,"Grant Park, Chicago",30.8374
+LA,Hammond,Tangipahoa,70404,30.5061,-90.4563,"Gulf State Park, Gulf Shores",271.8399
+VA,Hampton,Hampton,23681,37.0551,-76.363,"Shenandoah National Park, Shenandoah",249.3061
+CA,Hanford,Kings,93230,36.3274,-119.6549,"Kings Canyon National Park, California",116.2744
+PA,Hanover,York,17333,39.8117,-76.9835,"Rothrock State Forest, State College",123.8349
+TX,Harlingen,Cameron,78553,26.1917,-97.6976,"Pedernales Falls State Park, Johnson City",460.9932
+PA,Harrisburg,Dauphin,17130,40.2752,-76.8843,"Rothrock State Forest, State College",93.8396
+VA,Harrisonburg,Harrisonburg,22807,38.4361,-78.8735,"Shenandoah National Park, Shenandoah",58.431
+CT,Hartford,Hartford,06183,41.7661,-72.6834,"Odiorne Point State Park, Rye",215.2343
+MS,Hattiesburg,Forrest,39407,31.3074,-89.317,"Gulf State Park, Gulf Shores",198.156
+MA,Haverhill,Essex,01835,42.7838,-71.0871,"Odiorne Point State Park, Rye",41.9817
+CA,Hawthorne,Los Angeles,90310,33.9146,-118.3476,"Topanga State Park, Topanga",29.7087
+CA,Hayward,Alameda,94557,37.6328,-122.0772,"Yosemite National Park, California",224.7046
+MT,Helena,Lewis and Clark,59626,46.5965,-112.0202,"National Bison Range, Montana",185.6885
+CA,Hemet,Riverside,92546,33.7341,-116.9969,"Joshua Tree National Park, California",102.609
+NV,Henderson,Clark,89077,36.0133,-115.038,"Mojave National Preserve, Kelso",105.9169
+NC,Hendersonville,Henderson,28793,35.3242,-82.4576,"Mount Mitchell State Park",51.3016
+TN,Hendersonville,Sumner,37077,36.3063,-86.5998,"Sipsey Wilderness, Mt Hope",232.2295
+UT,Herriman,Salt Lake,84096,40.4899,-112.0171,"Manti-La Sal National Forest, Price",154.7482
+CA,Hesperia,San Bernardino,92345,34.3975,-117.3147,"Topanga State Park, Topanga",121.7711
+FL,Hialeah,Miami-Dade,33018,25.8696,-80.3046,"Oleta River State Park, North Miami",17.0364
+NC,Hickory,Catawba,28603,35.7425,-81.323,"Kings Mountain State Park, Blacksburg",68.0862
+NC,High Point,Guilford,27282,35.9907,-79.9938,"Kings Mountain State Park, Blacksburg",155.2346
+CA,Highland,San Bernardino,92410,34.1113,-117.1654,"Joshua Tree National Park, California",119.3529
+OH,Hilliard,Franklin,43026,40.0353,-83.1578,"Egypt Valley Wildlife Area",174.116
+OR,Hillsboro,Washington,97129,45.5272,-122.9361,"Mt. Hood National Forest, Oregon",78.5994
+NJ,Hoboken,Hudson,7030,40.7453,-74.0279,"Ricketts Glen State Park",200.9051
+IL,Hoffman Estates,Cook,60195,42.0639,-88.1468,"Grant Park, Chicago",48.1412
+MI,Holland,Ottawa,49423,42.7677,-86.0985,"Grant Park, Chicago",159.7047
+CA,Hollister,San Benito,95024,36.8563,-121.3981,"Yosemite National Park, California",198.9904
+FL,Hollywood,Broward,33316,26.0294,-80.1679,"Oleta River State Park, North Miami",12.2133
+FL,Homestead,Miami-Dade,33035,25.4665,-80.4472,"Everglades National Park, Florida",49.5701
+HI,Honolulu,Honolulu,96898,21.3294,-157.846,"Honolulu Watershed Forest Preserve, Honolulu",7.6888
+LA,Houma,Terrebonne,70363,29.5799,-90.7058,"Gulf State Park, Gulf Shores",305.3946
+TX,Houston,Harris,77598,29.7863,-95.3889,"Anahuac National Wildlife Refuge, Anahuac",92.8615
+MI,Howell,Livingston,48844,42.6078,-83.9339,"Grant Park, Chicago",314.2635
+TX,Humble,Harris,77396,29.9921,-95.2655,"Anahuac National Wildlife Refuge, Anahuac",89.4873
+NC,Huntersville,Mecklenburg,28078,35.4058,-80.8727,"Kings Mountain State Park, Blacksburg",52.7197
+WV,Huntington,Cabell,25778,38.4109,-82.4344,"Offshore Trap/Pot Waters Area, Western Atlantic Ocean",59.3991
+CA,Huntington Beach,Orange,92649,33.696,-118.0025,"Topanga State Park, Topanga",69.7432
+CA,Huntington Park,Los Angeles,90255,33.98,-118.2167,"Topanga State Park, Topanga",36.3958
+NY,Huntington Station,Suffolk,11746,40.8446,-73.405,"Ricketts Glen State Park",247.9694
+AL,Huntsville,Madison,35899,34.6988,-86.6412,"Sipsey Wilderness, Mt Hope",83.3667
+TX,Huntsville,Walker,77349,30.705,-95.5544,"Anahuac National Wildlife Refuge, Anahuac",161.5845
+MD,Hyattsville,Prince George's,20788,38.9612,-76.9548,"Shenandoah National Park, Shenandoah",119.4584
+ID,Idaho Falls,Bonneville,83415,43.4872,-112.0362,"Jackson Hole",98.4525
+MO,Independence,Jackson,64057,39.0871,-94.3501,"Eagle Bluffs Conservation Area, Columbia",167.9386
+IN,Indianapolis,Marion,46298,39.7771,-86.1458,"Grant Park, Chicago",264.4104
+CA,Indio,Riverside,92241,33.7346,-116.2346,"Joshua Tree National Park, California",34.9305
+CA,Inglewood,Los Angeles,90312,33.9566,-118.3444,"Topanga State Park, Topanga",27.0521
+IA,Iowa City,Johnson,52246,41.6559,-91.5303,"Danville Conservation Area, New Florence",310.3306
+CA,Irvine,Orange,92698,33.6772,-117.7738,"Topanga State Park, Topanga",88.1971
+TX,Irving,Dallas,75368,32.8584,-96.9702,"Little Sandy National Wildlife Refuge, Lindale",161.4673
+WA,Issaquah,King,98029,47.544,-122.0471,"Mount Rainier National Park, Washington",77.697
+NY,Ithaca,Tompkins,14853,42.4442,-76.5032,"Ricketts Glen State Park",124.1278
+MI,Jackson,Jackson,49203,42.2431,-84.4037,"Grant Park, Chicago",268.7741
+MS,Jackson,Hinds,39298,32.3163,-90.2124,"Gulf State Park, Gulf Shores",334.7257
+TN,Jackson,Madison,38314,35.6535,-88.8353,"Sipsey Wilderness, Mt Hope",194.5898
+FL,Jacksonville,Duval,32277,30.3322,-81.6749,"Okefenokee National Wildlife Refuge, Folkston",76.844
+NC,Jacksonville,Onslow,28547,34.7288,-77.3941,"Lake Wateree State Recreation Area",320.1394
+WI,Janesville,Rock,53548,42.6855,-89.0136,"Grant Park, Chicago",145.6043
+MO,Jefferson City,Cole,65111,38.5676,-92.1759,"Eagle Bluffs Conservation Area, Columbia",38.3641
+NJ,Jersey City,Hudson,07399,40.7161,-74.0682,"Ricketts Glen State Park",198.863
+TN,Johnson City,Washington,37684,36.3406,-82.3803,"Mount Mitchell State Park",63.9295
+PA,Johnstown,Cambria,15907,40.3258,-78.9193,"Rothrock State Forest, State College",102.232
+IL,Joliet,Will,60586,41.5189,-88.1499,"Grant Park, Chicago",59.1827
+AR,Jonesboro,Craighead,72467,35.8212,-90.6791,"Buffalo National River, St Joe",188.0982
+GA,Jonesboro,Clayton,30237,33.5212,-84.3541,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",54.7238
+MO,Joplin,Jasper,64804,37.0758,-94.5018,"Buffalo National River, St Joe",197.4357
+FL,Jupiter,Palm Beach,33477,26.9199,-80.1128,"Oleta River State Park, North Miami",111.0489
+MI,Kalamazoo,Kalamazoo,49074,42.2749,-85.5882,"Grant Park, Chicago",173.5951
+MT,Kalispell,Flathead,59904,48.2156,-114.3262,"National Bison Range, Montana",97.4685
+HI,Kaneohe,Honolulu,96744,21.4062,-157.7904,"Honolulu Watershed Forest Preserve, Honolulu",4.8685
+NC,Kannapolis,Cabarrus,28083,35.4764,-80.6403,"Kings Mountain State Park, Blacksburg",74.6612
+KS,Kansas City,Wyandotte,66160,39.1234,-94.7443,"Eagle Bluffs Conservation Area, Columbia",202.1804
+MO,Kansas City,Jackson,64999,39.1239,-94.5541,"Eagle Bluffs Conservation Area, Columbia",185.9558
+TX,Katy,Harris,77494,29.7904,-95.8353,"Anahuac National Wildlife Refuge, Anahuac",135.3793
+TX,Keller,Tarrant,76262,32.9337,-97.2255,"Little Sandy National Wildlife Refuge, Lindale",186.4462
+LA,Kenner,Jefferson,70141,30.0109,-90.2549,"Gulf State Park, Gulf Shores",253.36
+GA,Kennesaw,Cobb,30160,34.026,-84.6177,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",6.5626
+WA,Kennewick,Benton,99338,46.1978,-119.1732,"Bridge Creek Wildlife Area, Ukiah",129.5333
+WI,Kenosha,Kenosha,53144,42.5864,-87.8765,"Grant Park, Chicago",81.677
+WA,Kent,King,98089,47.3887,-122.2129,"Mount Rainier National Park, Washington",67.4643
+NC,Kernersville,Forsyth,27285,36.1066,-80.0844,"Kings Mountain State Park, Blacksburg",157.3964
+TX,Killeen,Bell,76549,31.0754,-97.7296,"Pedernales Falls State Park, Johnson City",99.1472
+AZ,Kingman,Mohave,86409,35.217,-114.0105,"Mojave National Preserve, Kelso",136.5747
+TN,Kingsport,Sullivan,37669,36.5224,-82.5453,"Mount Mitchell State Park",86.5041
+WA,Kirkland,King,98083,47.6974,-122.2054,"Mount Rainier National Park, Washington",97.7966
+FL,Kissimmee,Osceola,34746,28.3042,-81.4164,"Lake Eola Park, Orlando",27.1145
+OR,Klamath Falls,Klamath,97603,42.2191,-121.7754,"Whiskeytown National Recreation Area, Whiskeytown",188.1765
+TN,Knoxville,Knox,37997,35.9692,-83.9496,"Cades Cove, Great Smoky Mountains National Park, Tennessee",43.2434
+IN,Kokomo,Howard,46965,40.464,-86.1277,"Grant Park, Chicago",200.7646
+TX,Kyle,Hays,78666,29.9937,-97.8859,"Pedernales Falls State Park, Johnson City",50.0011
+WI,La Crosse,La Crosse,54603,43.824,-91.2268,"Wisconsin Interstate State Park",207.9698
+CA,La Habra,Orange,90633,33.9278,-117.9513,"Topanga State Park, Topanga",61.4404
+CA,La Mesa,San Diego,91944,32.7703,-117.0204,"Joshua Tree National Park, California",161.5538
+CA,La Mirada,Los Angeles,90639,33.9025,-118.0093,"Topanga State Park, Topanga",57.3492
+CA,La Puente,Los Angeles,91749,34.0323,-117.9533,"Topanga State Park, Topanga",58.7945
+IN,Lafayette,Tippecanoe,47909,40.399,-86.8594,"Grant Park, Chicago",176.2573
+LA,Lafayette,Lafayette,70598,30.2084,-92.0323,"Anahuac National Wildlife Refuge, Anahuac",242.2442
+CA,Laguna Niguel,Orange,92677,33.5275,-117.705,"Topanga State Park, Topanga",102.9634
+LA,Lake Charles,Calcasieu,70629,30.2012,-93.2122,"Anahuac National Wildlife Refuge, Anahuac",136.1271
+FL,Lake City,Columbia,32056,30.1901,-82.647,"Okefenokee National Wildlife Refuge, Folkston",73.1904
+CA,Lake Elsinore,Riverside,92570,33.6847,-117.3344,"Topanga State Park, Topanga",124.2492
+CA,Lake Forest,Orange,92679,33.6606,-117.6712,"Topanga State Park, Topanga",97.2954
+AZ,Lake Havasu City,Mohave,86406,34.5006,-114.3113,"Mojave National Preserve, Kelso",130.6233
+FL,Lake Worth,Palm Beach,33466,26.6196,-80.0591,"Oleta River State Park, North Miami",78.0772
+FL,Lakeland,Polk,33815,28.0556,-81.9545,"Lake Eola Park, Orlando",78.768
+MN,Lakeville,Dakota,55044,44.6774,-93.252,"Wisconsin Interstate State Park",93.2849
+CA,Lakewood,Los Angeles,90715,33.8471,-118.1221,"Topanga State Park, Topanga",50.8845
+OH,Lakewood,Cuyahoga,44107,41.4824,-81.8008,"Egypt Valley Wildlife Area",162.6128
+WA,Lakewood,Pierce,98499,47.1628,-122.5299,"Mount Rainier National Park, Washington",68.5144
+CA,Lancaster,Los Angeles,93584,34.6935,-118.1753,"Topanga State Park, Topanga",76.7141
+OH,Lancaster,Fairfield,43130,39.7249,-82.6049,"Egypt Valley Wildlife Area",134.3474
+PA,Lancaster,Lancaster,17699,40.0421,-76.3012,"Ricketts Glen State Park",144.232
+SC,Lancaster,Lancaster,29720,34.7247,-80.7801,"Lake Wateree State Recreation Area",39.6083
+PA,Lansdale,Montgomery,19446,40.2417,-75.2812,"Ricketts Glen State Park",148.696
+MI,Lansing,Ingham,48956,42.7142,-84.5601,"Grant Park, Chicago",268.4861
+TX,Laredo,Webb,78046,27.5629,-99.4875,"Pedernales Falls State Park, Johnson City",327.8617
+FL,Largo,Pinellas,33779,27.9088,-82.7711,"Myakka State Forest, Englewood",112.963
+NM,Las Cruces,Doña Ana,88013,32.3265,-106.7892,"White Sands National Park",76.7437
+NV,Las Vegas,Clark,89195,36.2333,-115.2654,"Mojave National Preserve, Kelso",123.3817
+MD,Laurel,Prince George's,20797,39.095,-76.8622,"Shenandoah National Park, Shenandoah",131.3339
+KS,Lawrence,Douglas,66049,38.9597,-95.2641,"El Dorado State Park, Kansas",178.0565
+MA,Lawrence,Essex,01843,42.7003,-71.1626,"Odiorne Point State Park, Rye",52.9459
+GA,Lawrenceville,Gwinnett,30049,33.9523,-83.9931,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",54.1149
+OK,Lawton,Comanche,73507,34.6176,-98.4203,"Little Sandy National Wildlife Refuge, Lindale",368.3587
+UT,Layton,Davis,84041,41.0769,-111.9621,"Manti-La Sal National Forest, Price",215.8907
+TX,League City,Galveston,77598,29.4873,-95.1087,"Anahuac National Wildlife Refuge, Anahuac",65.2558
+TX,Leander,Williamson,78646,30.5728,-97.8618,"Pedernales Falls State Park, Johnson City",48.0336
+PA,Lebanon,Lebanon,17046,40.3412,-76.4227,"Ricketts Glen State Park",111.5271
+TN,Lebanon,Wilson,37136,36.204,-86.3481,"Sipsey Wilderness, Mt Hope",230.3447
+FL,Leesburg,Lake,34789,28.7657,-81.8996,"Lake Eola Park, Orlando",56.9545
+VA,Leesburg,Loudoun,20178,39.1058,-77.5544,"Shenandoah National Park, Shenandoah",78.1814
+UT,Lehi,Utah,84043,40.4136,-111.8726,"Manti-La Sal National Forest, Price",142.7329
+FL,Lehigh Acres,Lee,33976,26.612,-81.6388,"Myakka State Forest, Englewood",76.7122
+KS,Lenexa,Johnson,66250,38.9609,-94.8018,"Eagle Bluffs Conservation Area, Columbia",205.4461
+PA,Levittown,Bucks,19058,40.1537,-74.853,"Ricketts Glen State Park",178.9911
+TX,Lewisville,Denton,75077,33.0452,-96.9823,"Little Sandy National Wildlife Refuge, Lindale",167.4696
+KY,Lexington,Fayette,40598,38.0423,-84.4587,"Offshore Trap/Pot Waters Area, Western Atlantic Ocean",215.4211
+NC,Lexington,Davidson,27295,35.8017,-80.2682,"Kings Mountain State Park, Blacksburg",122.8347
+SC,Lexington,Lexington,29072,33.989,-81.2202,"Lake Wateree State Recreation Area",54.0423
+GA,Lilburn,Gwinnett,30048,33.8887,-84.1379,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",41.861
+OH,Lima,Allen,45805,40.741,-84.1121,"Egypt Valley Wildlife Area",263.1064
+CA,Lincoln,Placer,95648,38.8759,-121.2916,"Sand Harbor State Park, Incline Village",122.8625
+NE,Lincoln,Lancaster,68588,40.809,-96.6788,"El Dorado State Park, Kansas",327.3104
+GA,Lithonia,DeKalb,30058,33.7128,-84.106,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",52.6164
+TX,Little Elm,Denton,76227,33.1856,-96.929,"Little Sandy National Wildlife Refuge, Lindale",168.1182
+AR,Little Rock,Pulaski,72295,34.7256,-92.3576,"Hot Springs National Park, Hot Springs",66.6315
+CO,Littleton,Arapahoe,80166,39.5915,-105.0188,"Cherry Creek State Park, Aurora",16.8954
+CA,Livermore,Alameda,94551,37.6862,-121.7608,"Yosemite National Park, California",196.3388
+NY,Liverpool,Onondaga,13088,43.1061,-76.2093,"Ricketts Glen State Park",196.5856
+MI,Livonia,Wayne,48154,42.3972,-83.3733,"Egypt Valley Wildlife Area",316.2583
+NY,Lockport,Niagara,14095,43.1698,-78.6956,"Rothrock State Forest, State College",281.6515
+CA,Lodi,San Joaquin,95242,38.1218,-121.2932,"Yosemite National Park, California",156.4044
+UT,Logan,Cache,84341,41.74,-111.8419,"Jackson Hole",221.2226
+GA,Loganville,Walton,30052,33.8353,-83.8957,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",64.9959
+IL,Lombard,DuPage,60148,41.8742,-88.0157,"Grant Park, Chicago",32.6069
+CA,Lompoc,Santa Barbara,93438,34.6618,-120.4714,"Channel Islands National Park, Ventura",97.7796
+CA,Long Beach,Los Angeles,90853,33.7981,-118.1675,"Topanga State Park, Topanga",50.7569
+CO,Longmont,Boulder,80504,40.1686,-105.1005,"Golden Gate Canyon State Park",46.7315
+TX,Longview,Gregg,75660,32.5193,-94.7621,"Little Sandy National Wildlife Refuge, Lindale",48.6003
+WA,Longview,Cowlitz,98632,46.1461,-122.9629,"Mt. Hood National Forest, Oregon",110.8543
+FL,Longwood,Seminole,32750,28.7014,-81.3487,"Lake Eola Park, Orlando",17.5477
+OH,Lorain,Lorain,44055,41.4409,-82.184,"Egypt Valley Wildlife Area",172.7289
+CA,Los Gatos,Santa Clara,95036,37.2303,-121.956,"Yosemite National Park, California",224.5186
+KY,Louisville,Jefferson,40299,38.1663,-85.6485,"Offshore Trap/Pot Waters Area, Western Atlantic Ocean",319.8431
+CO,Loveland,Larimer,80539,40.4166,-105.0623,"Golden Gate Canyon State Park",72.7196
+OH,Loveland,Hamilton,45140,39.2679,-84.2731,"Offshore Trap/Pot Waters Area, Western Atlantic Ocean",242.5964
+MA,Lowell,Middlesex,01854,42.6389,-71.3217,"Odiorne Point State Park, Rye",66.9672
+TX,Lubbock,Lubbock,79499,33.5659,-101.8878,"White Sands National Park",408.1487
+TX,Lufkin,Angelina,75915,31.3217,-94.7277,"Little Sandy National Wildlife Refuge, Lindale",150.2229
+NC,Lumberton,Robeson,28360,34.6312,-79.0186,"Lake Wateree State Recreation Area",171.4348
+FL,Lutz,Hillsborough,33675,28.1396,-82.4467,"Lake Eola Park, Orlando",114.3527
+VA,Lynchburg,Lynchburg,24514,37.4003,-79.1909,"Shenandoah National Park, Shenandoah",164.5829
+MA,Lynn,Essex,01910,42.4779,-70.9663,"Odiorne Point State Park, Rye",66.6082
+WA,Lynnwood,Snohomish,98046,47.8284,-122.3033,"Mount Rainier National Park, Washington",114.0487
+CA,Lynwood,Los Angeles,90262,33.924,-118.2017,"Topanga State Park, Topanga",40.2158
+GA,Macon,Bibb,31297,32.8065,-83.6974,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",153.6973
+CA,Madera,Madera,93639,36.9631,-120.0782,"Yosemite National Park, California",111.0539
+AL,Madison,Madison,35758,34.7114,-86.7626,"Sipsey Wilderness, Mt Hope",74.6452
+WI,Madison,Dane,53794,43.0826,-89.3931,"Grant Park, Chicago",197.6927
+TX,Magnolia,Montgomery,77355,30.2117,-95.7419,"Anahuac National Wildlife Refuge, Anahuac",141.4156
+MA,Malden,Middlesex,2148,42.4305,-71.0576,"Odiorne Point State Park, Rye",74.091
+VA,Manassas,Manassas,20110,38.7479,-77.4839,"Shenandoah National Park, Shenandoah",70.3606
+NH,Manchester,Hillsborough,03111,42.9848,-71.4447,"Odiorne Point State Park, Rye",59.3339
+LA,Mandeville,St. Tammany,70471,30.3751,-90.0904,"Gulf State Park, Gulf Shores",235.8834
+KS,Manhattan,Riley,66506,39.1886,-96.6046,"El Dorado State Park, Kansas",147.6569
+MN,Mankato,Blue Earth,56002,44.1712,-93.9773,"Wisconsin Interstate State Park",172.2622
+OH,Mansfield,Richland,44907,40.7656,-82.5275,"Egypt Valley Wildlife Area",139.7589
+TX,Mansfield,Tarrant,76063,32.569,-97.1211,"Little Sandy National Wildlife Refuge, Lindale",173.1146
+CA,Manteca,San Joaquin,95337,37.7927,-121.2264,"Yosemite National Park, California",148.4742
+AZ,Maricopa,Pinal,85139,33.0404,-112.0006,"Kartchner Caverns State Park, Benson",204.8338
+GA,Marietta,Cobb,30090,33.9533,-84.5422,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",4.2666
+OH,Marion,Marion,43302,40.5933,-83.1237,"Egypt Valley Wildlife Area",178.3784
+LA,Marrero,Jefferson,70072,29.8871,-90.1127,"Gulf State Park, Gulf Shores",241.9163
+CA,Martinez,Contra Costa,94553,37.9985,-122.116,"Yosemite National Park, California",226.5513
+WV,Martinsburg,Berkeley,25404,39.4582,-77.9776,"Shenandoah National Park, Shenandoah",88.5318
+WA,Marysville,Snohomish,98271,48.0809,-122.1561,"Mount Rainier National Park, Washington",137.377
+TN,Maryville,Blount,37804,35.7468,-83.9789,"Cades Cove, Great Smoky Mountains National Park, Tennessee",21.982
+OH,Mason,Warren,45040,39.3571,-84.3023,"Offshore Trap/Pot Waters Area, Western Atlantic Ocean",250.4104
+NY,Massapequa,Nassau,11758,40.6676,-73.4706,"Ricketts Glen State Park",248.1179
+OH,Massillon,Stark,44647,40.7838,-81.5254,"Egypt Valley Wildlife Area",82.0591
+NC,Matthews,Mecklenburg,28106,35.1195,-80.7101,"Kings Mountain State Park, Blacksburg",57.7949
+PA,Mechanicsburg,Cumberland,17055,40.2115,-77.006,"Rothrock State Forest, State College",89.5972
+VA,Mechanicsville,Hanover,23116,37.6262,-77.3561,"Shenandoah National Park, Shenandoah",144.8264
+MA,Medford,Middlesex,02156,42.4234,-71.1087,"Odiorne Point State Park, Rye",76.4604
+OR,Medford,Jackson,97504,42.3372,-122.8537,"Redwood National and State Parks",157.2552
+OH,Medina,Medina,44256,41.1358,-81.8694,"Egypt Valley Wildlife Area",130.1334
+FL,Melbourne,Brevard,32941,28.1085,-80.6627,"Kissimmee Prairie Preserve State Park, Okeechobee",67.2152
+TN,Memphis,Shelby,38197,35.1046,-89.9773,"Sipsey Wilderness, Mt Hope",247.74
+OH,Mentor,Lake,44061,41.6895,-81.3361,"Hillman State Park, Burgettstown",158.2
+CA,Merced,Merced,95348,37.3057,-120.4778,"Yosemite National Park, California",103.5463
+CT,Meriden,New Haven,06451,41.5367,-72.7944,"Odiorne Point State Park, Rye",239.5386
+ID,Meridian,Ada,83680,43.6112,-116.3968,"Bridge Creek Wildlife Area, Ukiah",258.0239
+MS,Meridian,Lauderdale,39307,32.3846,-88.6896,"Ruffner Mountain Nature Center, Birmingham",226.3942
+AZ,Mesa,Maricopa,85277,33.4017,-111.718,"Kartchner Caverns State Park, Benson",216.1608
+TX,Mesquite,Dallas,75187,32.7623,-96.5889,"Little Sandy National Wildlife Refuge, Lindale",124.5686
+LA,Metairie,Jefferson,70055,29.9977,-90.178,"Gulf State Park, Gulf Shores",246.1998
+FL,Miami,Miami-Dade,33299,25.7839,-80.2102,"Oleta River State Park, North Miami",16.6686
+FL,Miami Beach,Miami-Dade,33239,25.8171,-80.1396,"Oleta River State Park, North Miami",11.6314
+FL,Middleburg,Clay,32068,30.0502,-81.9011,"Okefenokee National Wildlife Refuge, Folkston",88.7362
+NY,Middletown,Orange,10940,41.4459,-74.4236,"Ricketts Glen State Park",156.1763
+OH,Middletown,Butler,45044,39.5032,-84.366,"Offshore Trap/Pot Waters Area, Western Atlantic Ocean",264.6225
+MI,Midland,Midland,48686,43.6241,-84.2319,"Grant Park, Chicago",338.158
+TX,Midland,Midland,79711,32.0249,-102.1137,"White Sands National Park",390.0803
+CT,Milford,New Haven,06461,41.2256,-73.0616,"Ricketts Glen State Park",270.0791
+CA,Milpitas,Santa Clara,95035,37.4339,-121.8921,"Yosemite National Park, California",212.6938
+FL,Milton,Santa Rosa,32583,30.6286,-87.0522,"Gulf State Park, Gulf Shores",69.2107
+WI,Milwaukee,Milwaukee,53295,43.0642,-87.9673,"Grant Park, Chicago",135.0742
+MN,Minneapolis,Hennepin,55488,44.9635,-93.2678,"Wisconsin Interstate State Park",68.7085
+ND,Minot,Ward,58707,48.2375,-101.2781,"Fort Berthold Indian Reservation",101.0382
+IN,Mishawaka,St. Joseph,46546,41.6736,-86.1669,"Grant Park, Chicago",122.7444
+TX,Mission,Hidalgo,78574,26.2041,-98.3251,"Pedernales Falls State Park, Johnson City",456.3882
+CA,Mission Viejo,Orange,92692,33.6095,-117.655,"Topanga State Park, Topanga",101.5131
+MT,Missoula,Missoula,59812,46.875,-114.0214,"National Bison Range, Montana",53.9073
+TX,Missouri City,Fort Bend,77545,29.563,-95.5365,"Anahuac National Wildlife Refuge, Anahuac",105.2804
+AL,Mobile,Mobile,36695,30.6783,-88.1162,"Gulf State Park, Gulf Shores",65.1891
+CA,Modesto,Stanislaus,95397,37.6374,-121.0028,"Yosemite National Park, California",131.2193
+LA,Monroe,Ouachita,71217,32.5183,-92.0774,"Hot Springs National Park, Hot Springs",240.0327
+MI,Monroe,Monroe,48162,41.9154,-83.385,"Egypt Valley Wildlife Area",276.3084
+NC,Monroe,Union,28112,35.0061,-80.5595,"Kings Mountain State Park, Blacksburg",72.8525
+CA,Montebello,Los Angeles,90640,34.0155,-118.1108,"Topanga State Park, Topanga",44.7413
+CA,Monterey Park,Los Angeles,91756,34.0497,-118.1326,"Topanga State Park, Topanga",42.1609
+AL,Montgomery,Montgomery,36191,32.3473,-86.2666,"Ruffner Mountain Nature Center, Birmingham",140.8606
+TX,Montgomery,Montgomery,77356,30.3921,-95.6958,"Anahuac National Wildlife Refuge, Anahuac",148.2219
+NC,Mooresville,Iredell,28117,35.5849,-80.8265,"Kings Mountain State Park, Blacksburg",69.0516
+CA,Moreno Valley,Riverside,92557,33.9244,-117.2045,"Joshua Tree National Park, California",120.4241
+CA,Morgan Hill,Santa Clara,95037,37.1326,-121.6417,"Yosemite National Park, California",202.6384
+NC,Morganton,Burke,28680,35.7408,-81.7003,"Mount Mitchell State Park",54.7577
+WV,Morgantown,Monongalia,26505,39.638,-79.9468,"Lantz Farm and Nature Preserve",61.7529
+TN,Morristown,Hamblen,37815,36.2046,-83.3006,"Great Smoky Mountains National Park, Tennessee",68.0815
+PA,Morrisville,Bucks,19067,40.2074,-74.78,"Ricketts Glen State Park",178.9224
+TN,Mount Juliet,Wilson,37122,36.1991,-86.5114,"Sipsey Wilderness, Mt Hope",223.8923
+MI,Mount Pleasant,Isabella,48859,43.5966,-84.7759,"Grant Park, Chicago",300.982
+SC,Mount Pleasant,Charleston,29466,32.8538,-79.8204,"Lake Wateree State Recreation Area",194.7998
+IL,Mount Prospect,Cook,60056,42.0641,-87.9375,"Grant Park, Chicago",33.4085
+NY,Mount Vernon,Westchester,10553,40.9136,-73.8291,"Ricketts Glen State Park",211.5119
+CA,Mountain View,Santa Clara,94043,37.4,-122.0796,"Yosemite National Park, California",229.6742
+IN,Muncie,Delaware,47307,40.1989,-85.395,"Grant Park, Chicago",263.951
+TN,Murfreesboro,Rutherford,37133,35.8492,-86.4119,"Sipsey Wilderness, Mt Hope",192.6665
+CA,Murrieta,Riverside,92563,33.572,-117.1909,"Joshua Tree National Park, California",124.1964
+MI,Muskegon,Muskegon,49442,43.2281,-86.2563,"Grant Park, Chicago",187.3466
+SC,Myrtle Beach,Horry,29578,33.7096,-78.8843,"Lake Wateree State Recreation Area",196.8014
+TX,Nacogdoches,Nacogdoches,75965,31.6134,-94.6528,"Little Sandy National Wildlife Refuge, Lindale",123.4163
+ID,Nampa,Canyon,83687,43.5845,-116.5631,"Bridge Creek Wildlife Area, Ukiah",249.704
+CA,Napa,Napa,94581,38.2976,-122.3011,"Sand Harbor State Park, Incline Village",228.6352
+IL,Naperville,DuPage,60567,41.7483,-88.1657,"Grant Park, Chicago",47.2691
+FL,Naples,Collier,34106,26.1504,-81.7936,"Myakka State Forest, Englewood",105.2894
+NH,Nashua,Hillsborough,03064,42.7491,-71.491,"Odiorne Point State Park, Rye",71.0942
+TN,Nashville,Davidson,37250,36.1715,-86.7843,"Sipsey Wilderness, Mt Hope",212.8957
+CA,National City,San Diego,92136,32.6654,-117.0983,"Joshua Tree National Park, California",175.1914
+MI,New Baltimore,Macomb,48047,42.6903,-82.7398,"Hillman State Park, Burgettstown",315.7338
+MA,New Bedford,Bristol,02746,41.6697,-70.9428,"Odiorne Point State Park, Rye",154.4603
+NC,New Bern,Craven,28562,35.0955,-77.0723,"Lake Wateree State Recreation Area",355.5495
+TX,New Braunfels,Comal,78135,29.6994,-98.1148,"Pedernales Falls State Park, Johnson City",69.0661
+CT,New Britain,Hartford,06053,41.6758,-72.7862,"Odiorne Point State Park, Rye",228.3059
+NJ,New Brunswick,Middlesex,08933,40.487,-74.445,"Ricketts Glen State Park",181.7262
+DE,New Castle,New Castle,19721,39.6685,-75.5692,"Ricketts Glen State Park",195.5216
+PA,New Castle,Lawrence,16107,40.9956,-80.3459,"Hillman State Park, Burgettstown",60.43
+CT,New Haven,New Haven,06540,41.3112,-72.9246,"Odiorne Point State Park, Rye",265.1866
+LA,New Iberia,Iberia,70563,30.0049,-91.8202,"Anahuac National Wildlife Refuge, Anahuac",257.4052
+LA,New Orleans,Orleans,70195,30.0687,-89.9288,"Gulf State Park, Gulf Shores",221.4394
+FL,New Port Richey,Pasco,34656,28.2468,-82.717,"Lake Eola Park, Orlando",135.5955
+NY,New Rochelle,Westchester,10805,40.9305,-73.7836,"Ricketts Glen State Park",214.7959
+NY,New York,New York,11697,40.6943,-73.9249,"Ricketts Glen State Park",211.0133
+DE,Newark,New Castle,19726,39.6776,-75.7573,"Ricketts Glen State Park",190.1769
+NJ,Newark,Essex,07199,40.7245,-74.1725,"Ricketts Glen State Park",190.3393
+OH,Newark,Licking,43093,40.0705,-82.4251,"Egypt Valley Wildlife Area",111.631
+GA,Newnan,Coweta,30271,33.3766,-84.7761,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",69.1369
+CA,Newport Beach,Orange,92663,33.6151,-117.8669,"Topanga State Park, Topanga",85.1561
+VA,Newport News,Newport News,23630,37.1051,-76.5185,"Shenandoah National Park, Shenandoah",236.0046
+NY,Niagara Falls,Niagara,14305,43.0921,-79.0147,"Rothrock State Forest, State College",281.4148
+IN,Noblesville,Hamilton,46062,40.0354,-86.0042,"Grant Park, Chicago",245.6781
+GA,Norcross,Gwinnett,30071,33.9379,-84.2065,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",34.6364
+VA,Norfolk,Norfolk,23551,36.8945,-76.259,"Shenandoah National Park, Shenandoah",268.7929
+IL,Normal,McLean,61790,40.5218,-88.9881,"Grant Park, Chicago",189.0857
+PA,Norristown,Montgomery,19409,40.1224,-75.3398,"Ricketts Glen State Park",157.2313
+SC,North Charleston,Charleston,29485,32.9066,-80.0722,"Lake Wateree State Recreation Area",178.9737
+FL,North Fort Myers,Lee,33918,26.7243,-81.8491,"Myakka State Forest, Englewood",52.3976
+NV,North Las Vegas,Clark,89115,36.288,-115.0901,"Mojave National Preserve, Kelso",132.9918
+AR,North Little Rock,Pulaski,72214,34.7808,-92.2371,"Hot Springs National Park, Hot Springs",79.0915
+FL,North Port,Sarasota,34293,27.0577,-82.1975,"Myakka State Forest, Englewood",11.7139
+TX,North Richland Hills,Tarrant,76185,32.8605,-97.218,"Little Sandy National Wildlife Refuge, Lindale",184.3353
+CA,Norwalk,Los Angeles,90652,33.9069,-118.0829,"Topanga State Park, Topanga",50.9044
+CT,Norwalk,Fairfield,06858,41.1144,-73.4215,"Ricketts Glen State Park",241.2175
+CA,Novato,Marin,94998,38.092,-122.5576,"Sand Harbor State Park, Incline Village",259.1549
+MI,Novi,Oakland,48377,42.4786,-83.4893,"Egypt Valley Wildlife Area",329.2388
+IL,Oak Lawn,Cook,60453,41.7139,-87.7528,"Grant Park, Chicago",21.084
+IL,Oak Park,Cook,60304,41.8872,-87.7899,"Grant Park, Chicago",13.9605
+CA,Oakland,Alameda,94705,37.7903,-122.2165,"Yosemite National Park, California",235.3579
+FL,Ocala,Marion,34483,29.178,-82.1511,"Lake Eola Park, Orlando",103.4292
+CA,Oceanside,San Diego,92068,33.2247,-117.3083,"Joshua Tree National Park, California",149.5134
+TX,Odessa,Ector,79769,31.8831,-102.3406,"White Sands National Park",373.4788
+UT,Ogden,Weber,84415,41.2278,-111.9682,"Manti-La Sal National Forest, Price",232.3538
+KS,Olathe,Johnson,66063,38.8832,-94.8198,"El Dorado State Park, Kansas",203.2358
+MS,Olive Branch,DeSoto,38654,34.961,-89.8469,"Sipsey Wilderness, Mt Hope",231.4634
+WA,Olympia,Thurston,98511,47.0417,-122.8959,"Mount Rainier National Park, Washington",90.5189
+NE,Omaha,Douglas,68198,41.2627,-96.0522,"El Dorado State Park, Kansas",382.4871
+CA,Ontario,San Bernardino,91764,34.0393,-117.6064,"Topanga State Park, Topanga",90.5532
+CA,Orange,Orange,92869,33.8038,-117.8218,"Topanga State Park, Topanga",77.5977
+TX,Orange,Orange,77632,30.121,-93.7616,"Anahuac National Wildlife Refuge, Anahuac",87.2891
+FL,Orange Park,Clay,32073,30.1706,-81.7041,"Okefenokee National Wildlife Refuge, Folkston",87.5931
+OR,Oregon City,Clackamas,97045,45.3415,-122.5927,"Mt. Hood National Forest, Oregon",53.0045
+UT,Orem,Utah,84097,40.2983,-111.6992,"Manti-La Sal National Forest, Price",126.5452
+IL,Orland Park,Cook,60467,41.6074,-87.8619,"Grant Park, Chicago",35.9398
+FL,Orlando,Orange,32897,28.4772,-81.3369,"Lake Eola Park, Orlando",8.3195
+FL,Ormond Beach,Volusia,32176,29.296,-81.1003,"Little Big Econ State Forest",69.1955
+CA,Oroville,Butte,95966,39.4999,-121.5634,"Sand Harbor State Park, Incline Village",144.3127
+WI,Oshkosh,Winnebago,54985,44.0228,-88.5619,"Grant Park, Chicago",250.6196
+KS,Overland Park,Johnson,66283,38.887,-94.687,"Eagle Bluffs Conservation Area, Columbia",195.2831
+FL,Oviedo,Seminole,32766,28.658,-81.1872,"Little Big Econ State Forest",8.2552
+KY,Owensboro,Daviess,42304,37.7574,-87.1173,"Cades Cove, Great Smoky Mountains National Park, Tennessee",379.5515
+MD,Owings Mills,Baltimore,21117,39.4115,-76.7913,"Shenandoah National Park, Shenandoah",151.8406
+CA,Oxnard,Ventura,93036,34.1963,-119.1815,"Malibu Creek State Park, Calabasas",42.648
+KY,Paducah,McCracken,42003,37.0711,-88.6436,"Danville Conservation Area, New Florence",320.4446
+OH,Painesville,Lake,44077,41.724,-81.2536,"Hillman State Park, Burgettstown",158.2944
+IL,Palatine,Cook,60095,42.1181,-88.043,"Grant Park, Chicago",43.9651
+FL,Palm Bay,Brevard,32976,27.955,-80.6627,"Kissimmee Prairie Preserve State Park, Okeechobee",54.1133
+FL,Palm Beach Gardens,Palm Beach,33418,26.8466,-80.1679,"Oleta River State Park, North Miami",102.8804
+FL,Palm Coast,Flagler,32164,29.5392,-81.246,"Little Big Econ State Forest",97.2137
+CA,Palm Desert,Riverside,92260,33.7378,-116.3695,"Joshua Tree National Park, California",46.1845
+FL,Palm Harbor,Pinellas,34684,28.0847,-82.7481,"Myakka State Forest, Englewood",130.1214
+CA,Palmdale,Los Angeles,93599,34.5944,-118.1057,"Topanga State Park, Topanga",71.1428
+CA,Palo Alto,Santa Clara,95033,37.3913,-122.1468,"Yosemite National Park, California",235.6704
+FL,Panama City,Bay,32412,30.1995,-85.6004,"Gulf State Park, Gulf Shores",195.7216
+CA,Paramount,Los Angeles,90723,33.8976,-118.1652,"Topanga State Park, Topanga",44.5795
+CO,Parker,Douglas,80138,39.5084,-104.7753,"Cherry Creek State Park, Aurora",15.4126
+MD,Parkville,Baltimore,21234,39.3832,-76.5519,"Shenandoah National Park, Shenandoah",168.4145
+CA,Pasadena,Los Angeles,91189,34.1597,-118.139,"Topanga State Park, Topanga",41.9241
+MD,Pasadena,Anne Arundel,21412,39.1552,-76.5537,"Shenandoah National Park, Shenandoah",158.6935
+TX,Pasadena,Harris,77586,29.6583,-95.1499,"Anahuac National Wildlife Refuge, Anahuac",67.9444
+WA,Pasco,Franklin,99302,46.2506,-119.1304,"Bridge Creek Wildlife Area, Ukiah",134.965
+NJ,Passaic,Passaic,7055,40.8574,-74.1282,"Ricketts Glen State Park",188.9317
+NJ,Paterson,Passaic,07544,40.9147,-74.1624,"Ricketts Glen State Park",184.3783
+RI,Pawtucket,Providence,02862,41.8744,-71.3743,"Odiorne Point State Park, Rye",141.203
+MA,Peabody,Essex,01961,42.5335,-70.9724,"Odiorne Point State Park, Rye",60.9057
+TX,Pearland,Brazoria,77588,29.5585,-95.3215,"Anahuac National Wildlife Refuge, Anahuac",84.5577
+FL,Pensacola,Escambia,32591,30.4427,-87.1886,"Gulf State Park, Gulf Shores",47.3911
+AZ,Peoria,Maricopa,85385,33.7844,-112.2989,"Petrified Forest National Park, Arizona",260.7751
+IL,Peoria,Peoria,61656,40.752,-89.6153,"Grant Park, Chicago",208.2004
+CA,Perris,Riverside,92599,33.7899,-117.2233,"Joshua Tree National Park, California",122.5897
+NJ,Perth Amboy,Middlesex,08862,40.5203,-74.2724,"Ricketts Glen State Park",192.4317
+CA,Petaluma,Sonoma,94954,38.2423,-122.6267,"Sand Harbor State Park, Incline Village",256.8813
+VA,Petersburg,Petersburg,23805,37.2043,-77.3913,"Shenandoah National Park, Shenandoah",184.1869
+TX,Pflugerville,Travis,78691,30.452,-97.6022,"Pedernales Falls State Park, Johnson City",64.8873
+TX,Pharr,Hidalgo,78577,26.1685,-98.1904,"Pedernales Falls State Park, Johnson City",460.3463
+AL,Phenix City,Russell,36869,32.4588,-85.0251,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",173.7703
+PA,Philadelphia,Philadelphia,19255,40.0077,-75.1339,"Ricketts Glen State Park",177.29
+AZ,Phoenix,Maricopa,85383,33.5722,-112.0891,"Kartchner Caverns State Park, Benson",252.5021
+CA,Pico Rivera,Los Angeles,90662,33.9902,-118.0888,"Topanga State Park, Topanga",47.339
+AR,Pine Bluff,Jefferson,71612,34.2116,-92.0178,"Hot Springs National Park, Hot Springs",100.1466
+CA,Pittsburg,Contra Costa,94565,38.0182,-121.8964,"Yosemite National Park, California",207.4789
+PA,Pittsburgh,Allegheny,15295,40.4396,-79.9762,"Hillman State Park, Burgettstown",35.9696
+CA,Placentia,Orange,92871,33.8807,-117.8553,"Topanga State Park, Topanga",71.5072
+IL,Plainfield,Will,60586,41.6206,-88.2252,"Grant Park, Chicago",57.5717
+NJ,Plainfield,Union,07063,40.6154,-74.4157,"Ricketts Glen State Park",176.7603
+TX,Plano,Collin,75093,33.0502,-96.7487,"Little Sandy National Wildlife Refuge, Lindale",146.9946
+FL,Plant City,Hillsborough,33566,28.014,-82.1201,"Lake Eola Park, Orlando",94.0249
+CA,Pleasanton,Alameda,94588,37.6663,-121.8805,"Yosemite National Park, California",207.0592
+ID,Pocatello,Bannock,83209,42.8724,-112.4646,"Jackson Hole",154.7564
+CA,Pomona,Los Angeles,91769,34.0585,-117.7626,"Topanga State Park, Topanga",76.0561
+FL,Pompano Beach,Broward,33097,26.2428,-80.1312,"Oleta River State Park, North Miami",35.7386
+MI,Pontiac,Oakland,48343,42.6493,-83.2878,"Egypt Valley Wildlife Area",335.0397
+TX,Port Arthur,Jefferson,77655,29.8554,-93.9264,"Anahuac National Wildlife Refuge, Anahuac",57.3565
+FL,Port Charlotte,Charlotte,33980,26.9918,-82.114,"Myakka State Forest, Englewood",17.1014
+FL,Port Orange,Volusia,32129,29.1084,-81.0137,"Little Big Econ State Forest",49.1359
+WA,Port Orchard,Kitsap,98367,47.5163,-122.661,"Mount Rainier National Park, Washington",99.9345
+CA,Porterville,Tulare,93257,36.0644,-119.0338,"Kings Canyon National Park, California",101.072
+ME,Portland,Cumberland,04124,43.6773,-70.2715,"Odiorne Point State Park, Rye",78.7161
+OR,Portland,Multnomah,97294,45.5372,-122.65,"Mt. Hood National Forest, Oregon",56.629
+VA,Portsmouth,Portsmouth,23709,36.8468,-76.354,"Shenandoah National Park, Shenandoah",267.4209
+MD,Potomac,Montgomery,20859,39.0141,-77.1943,"Shenandoah National Park, Shenandoah",101.2981
+PA,Pottstown,Montgomery,19464,40.2507,-75.6444,"Ricketts Glen State Park",132.6894
+NY,Poughkeepsie,Dutchess,12603,41.6949,-73.921,"Ricketts Glen State Park",201.194
+GA,Powder Springs,Cobb,30127,33.8659,-84.6838,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",15.6244
+AZ,Prescott,Yavapai,86313,34.585,-112.4475,"Petrified Forest National Park, Arizona",243.9538
+NJ,Princeton,Mercer,08544,40.3563,-74.6693,"Ricketts Glen State Park",174.7471
+RI,Providence,Providence,02940,41.823,-71.4187,"Odiorne Point State Park, Rye",147.8875
+UT,Provo,Utah,84606,40.2457,-111.6457,"Manti-La Sal National Forest, Price",119.8918
+CO,Pueblo,Pueblo,81012,38.2705,-104.6112,"Garden of Gods, Colorado Springs",71.2342
+FL,Punta Gorda,Charlotte,33950,26.8933,-82.0516,"Myakka State Forest, Englewood",25.5778
+WA,Puyallup,Pierce,98374,47.1794,-122.2902,"Mount Rainier National Park, Washington",54.1414
+AZ,Queen Creek,Maricopa,85142,33.2386,-111.6343,"Kartchner Caverns State Park, Benson",197.0328
+IL,Quincy,Adams,62305,39.9335,-91.3799,"Danville Conservation Area, New Florence",119.2851
+MA,Quincy,Norfolk,02269,42.2516,-71.0183,"Odiorne Point State Park, Rye",91.96
+WI,Racine,Racine,53408,42.7274,-87.8135,"Grant Park, Chicago",95.9228
+NC,Raleigh,Wake,27698,35.8325,-78.6435,"Kings Mountain State Park, Blacksburg",256.7927
+CA,Rancho Cordova,Sacramento,95827,38.574,-121.2523,"Sand Harbor State Park, Incline Village",133.7857
+CA,Rancho Cucamonga,San Bernardino,91739,34.1248,-117.5666,"Topanga State Park, Topanga",94.0391
+SD,Rapid City,Pennington,57703,44.0716,-103.2204,"Bear Butte State Park, Sturgis",47.7345
+PA,Reading,Berks,19612,40.34,-75.9267,"Ricketts Glen State Park",115.2404
+CA,Redding,Shasta,96003,40.5698,-122.365,"Whiskeytown National Recreation Area, Whiskeytown",18.2517
+CA,Redlands,San Bernardino,92375,34.0511,-117.1712,"Joshua Tree National Park, California",118.6722
+WA,Redmond,King,98073,47.6762,-122.1169,"Mount Rainier National Park, Washington",93.297
+CA,Redondo Beach,Los Angeles,90278,33.8574,-118.3766,"Topanga State Park, Topanga",32.6331
+CA,Redwood City,San Mateo,94065,37.5026,-122.2252,"Yosemite National Park, California",239.8446
+NV,Reno,Washoe,89599,39.5497,-119.8483,"Sand Harbor State Park, Incline Village",39.708
+WA,Renton,King,98059,47.4784,-122.1919,"Mount Rainier National Park, Washington",75.2529
+MA,Revere,Suffolk,2151,42.4192,-71.0036,"Odiorne Point State Park, Rye",73.7591
+OH,Reynoldsburg,Franklin,43069,39.9587,-82.7944,"Egypt Valley Wildlife Area",144.1076
+CA,Rialto,San Bernardino,92377,34.1174,-117.3894,"Topanga State Park, Topanga",110.325
+TX,Richardson,Dallas,75085,32.9717,-96.7093,"Little Sandy National Wildlife Refuge, Lindale",140.7353
+WA,Richland,Benton,99354,46.2824,-119.2938,"Bridge Creek Wildlife Area, Ukiah",140.3415
+CA,Richmond,Contra Costa,94850,37.9477,-122.339,"Yosemite National Park, California",245.8777
+KY,Richmond,Madison,40476,37.7306,-84.2926,"Offshore Trap/Pot Waters Area, Western Atlantic Ocean",203.4641
+TX,Richmond,Fort Bend,77469,29.5825,-95.7602,"Anahuac National Wildlife Refuge, Anahuac",126.805
+VA,Richmond,Richmond,23298,37.5295,-77.4756,"Shenandoah National Park, Shenandoah",148.5405
+NM,Rio Rancho,Sandoval,87174,35.2872,-106.6981,"Bandelier National Monument, Los Alamos",63.8205
+GA,Riverdale,Clayton,30374,33.564,-84.4103,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",48.4379
+CA,Riverside,Riverside,92522,33.9381,-117.3948,"Topanga State Park, Topanga",111.2556
+FL,Riverview,Hillsborough,33579,27.8227,-82.3023,"Myakka State Forest, Englewood",92.7845
+VA,Roanoke,Roanoke,24043,37.2785,-79.958,"Summit Bechtel Reserve, Glen Jean",124.7421
+MI,Rochester,Oakland,48308,42.6866,-83.1198,"Egypt Valley Wildlife Area",331.2176
+MN,Rochester,Olmsted,55906,44.0151,-92.4778,"Wisconsin Interstate State Park",154.3886
+NY,Rochester,Monroe,14653,43.168,-77.6162,"Ricketts Glen State Park",230.772
+SC,Rock Hill,York,29733,34.9416,-81.0244,"Kings Mountain State Park, Blacksburg",35.9913
+IL,Rockford,Winnebago,61126,42.2597,-89.0641,"Grant Park, Chicago",126.4432
+CA,Rocklin,Placer,95765,38.8075,-121.2488,"Sand Harbor State Park, Incline Village",121.8846
+MD,Rockville,Montgomery,20857,39.0834,-77.1552,"Shenandoah National Park, Shenandoah",107.2568
+TX,Rockwall,Rockwall,75189,32.9169,-96.4377,"Little Sandy National Wildlife Refuge, Lindale",114.7347
+NC,Rocky Mount,Nash,27815,35.9676,-77.8048,"Shenandoah National Park, Shenandoah",306.9311
+AR,Rogers,Benton,72758,36.3172,-94.1526,"Buffalo National River, St Joe",130.5623
+GA,Rome,Floyd,30165,34.2661,-85.1862,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",64.5009
+OR,Roseburg,Douglas,97471,43.2232,-123.3518,"Siuslaw National Forest, Tidewater",131.9682
+CA,Rosemead,Los Angeles,91772,34.0689,-118.0823,"Topanga State Park, Topanga",46.5888
+CA,Roseville,Placer,95747,38.7703,-121.3196,"Sand Harbor State Park, Incline Village",129.1153
+GA,Roswell,Fulton,30077,34.0391,-84.3513,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",22.1313
+NM,Roswell,Chaves,88203,33.373,-104.5294,"White Sands National Park",166.6306
+IL,Round Lake,Lake,60073,42.3435,-88.1058,"Grant Park, Chicago",65.5009
+TX,Round Rock,Williamson,78683,30.5254,-97.666,"Pedernales Falls State Park, Johnson City",61.673
+TX,Rowlett,Dallas,75089,32.9157,-96.5488,"Little Sandy National Wildlife Refuge, Lindale",124.5968
+MI,Royal Oak,Oakland,48073,42.5084,-83.1539,"Egypt Valley Wildlife Area",315.9247
+CA,Sacramento,Sacramento,95894,38.5667,-121.4683,"Sand Harbor State Park, Incline Village",150.4634
+MI,Saginaw,Saginaw,48663,43.4199,-83.9501,"Grant Park, Chicago",345.8371
+OR,Salem,Marion,97317,44.9231,-123.0246,"Siuslaw National Forest, Tidewater",89.435
+KS,Salina,Saline,67402,38.8137,-97.6143,"El Dorado State Park, Kansas",129.2078
+CA,Salinas,Monterey,93915,36.6884,-121.6317,"Yosemite National Park, California",226.7645
+MD,Salisbury,Wicomico,21804,38.3756,-75.5867,"Shenandoah National Park, Shenandoah",238.1043
+NC,Salisbury,Rowan,28147,35.6656,-80.4909,"Kings Mountain State Park, Blacksburg",97.6737
+UT,Salt Lake City,Salt Lake,84199,40.7777,-111.9306,"Manti-La Sal National Forest, Price",182.989
+WA,Sammamish,King,98075,47.6017,-122.0416,"Mount Rainier National Park, Washington",83.6953
+TX,San Angelo,Tom Green,76909,31.4424,-100.4506,"Pedernales Falls State Park, Johnson City",244.3431
+TX,San Antonio,Bexar,78299,29.4658,-98.5253,"Pedernales Falls State Park, Johnson City",97.1435
+TX,San Benito,Cameron,78586,26.1298,-97.644,"Pedernales Falls State Park, Johnson City",468.4744
+CA,San Bernardino,San Bernardino,92427,34.1417,-117.2946,"Topanga State Park, Topanga",119.1253
+CA,San Clemente,Orange,92674,33.4498,-117.6103,"Topanga State Park, Topanga",115.2099
+CA,San Diego,San Diego,92199,32.8312,-117.1225,"Joshua Tree National Park, California",162.8685
+CA,San Francisco,San Francisco,94188,37.7562,-122.443,"Yosemite National Park, California",255.4479
+CA,San Gabriel,Los Angeles,91778,34.0948,-118.099,"Topanga State Park, Topanga",44.9659
+CA,San Jacinto,Riverside,92583,33.797,-116.9916,"Joshua Tree National Park, California",101.1991
+CA,San Jose,Santa Clara,95196,37.3019,-121.8486,"Yosemite National Park, California",212.9844
+CA,San Leandro,Alameda,94579,37.7071,-122.1601,"Yosemite National Park, California",231.0564
+CA,San Luis Obispo,San Luis Obispo,93406,35.2669,-120.6691,"Channel Islands National Park, Ventura",163.1835
+CA,San Marcos,San Diego,92096,33.135,-117.1744,"Joshua Tree National Park, California",144.3705
+TX,San Marcos,Hays,78667,29.8736,-97.9381,"Pedernales Falls State Park, Johnson City",57.2675
+CA,San Mateo,San Mateo,94497,37.5521,-122.3122,"Yosemite National Park, California",246.4768
+CA,San Pablo,Contra Costa,94806,37.9628,-122.3425,"Yosemite National Park, California",246.2277
+CA,San Rafael,Marin,94915,37.9905,-122.5222,"Yosemite National Park, California",262.0721
+CA,San Ramon,Contra Costa,94583,37.7625,-121.9365,"Yosemite National Park, California",210.9696
+AZ,San Tan Valley,Pinal,85143,33.1879,-111.5472,"Kartchner Caverns State Park, Benson",187.6202
+UT,Sandy,Salt Lake,84094,40.571,-111.8505,"Manti-La Sal National Forest, Price",159.0408
+FL,Sanford,Seminole,32773,28.7893,-81.276,"Little Big Econ State Forest",21.0897
+NC,Sanford,Lee,27332,35.4874,-79.1772,"Lake Wateree State Recreation Area",197.2926
+CA,Santa Ana,Orange,92799,33.7366,-117.8819,"Topanga State Park, Topanga",76.2187
+CA,Santa Barbara,Santa Barbara,93190,34.4285,-119.7202,"Channel Islands National Park, Ventura",48.1114
+CA,Santa Clara,Santa Clara,95056,37.3645,-121.968,"Yosemite National Park, California",221.1211
+CA,Santa Clarita,Los Angeles,91387,34.4175,-118.4964,"Topanga State Park, Topanga",37.0179
+CA,Santa Cruz,Santa Cruz,95067,36.9789,-122.0346,"Yosemite National Park, California",241.4538
+NM,Santa Fe,Santa Fe,87509,35.6619,-105.9819,"Bandelier National Monument, Los Alamos",31.9906
+CA,Santa Maria,Santa Barbara,93458,34.9334,-120.4432,"Channel Islands National Park, Ventura",120.8023
+CA,Santa Monica,Los Angeles,90411,34.0232,-118.4813,"Topanga State Park, Topanga",12.4876
+CA,Santa Rosa,Sonoma,95409,38.4458,-122.7067,"Whiskeytown National Recreation Area, Whiskeytown",243.567
+CA,Santee,San Diego,92071,32.8554,-116.9851,"Joshua Tree National Park, California",152.2123
+FL,Sarasota,Sarasota,34276,27.3386,-82.5431,"Myakka State Forest, Englewood",46.4828
+GA,Savannah,Chatham,31421,32.0281,-81.1784,"Okefenokee National Wildlife Refuge, Folkston",175.0841
+IL,Schaumburg,Cook,60196,42.0307,-88.0838,"Grant Park, Chicago",41.8709
+NY,Schenectady,Schenectady,12345,42.8025,-73.9276,"Ricketts Glen State Park",253.9762
+AZ,Scottsdale,Maricopa,85271,33.6872,-111.8651,"Petrified Forest National Park, Arizona",232.8779
+PA,Scranton,Lackawanna,18540,41.4044,-75.6649,"Ricketts Glen State Park",52.6989
+WA,Seattle,King,98199,47.6211,-122.3244,"Mount Rainier National Park, Washington",93.9422
+FL,Sebring,Highlands,33875,27.477,-81.453,"Kissimmee Prairie Preserve State Park, Okeechobee",42.178
+TX,Seguin,Guadalupe,78156,29.5889,-97.9671,"Pedernales Falls State Park, Johnson City",84.7286
+FL,Seminole,Pinellas,33778,27.8435,-82.7839,"Myakka State Forest, Englewood",107.0089
+TN,Sevierville,Sevier,37876,35.8873,-83.5677,"Great Smoky Mountains National Park, Tennessee",31.4396
+KS,Shawnee,Johnson,66286,39.0158,-94.8076,"Eagle Bluffs Conservation Area, Columbia",206.3267
+WI,Sheboygan,Sheboygan,53083,43.7403,-87.7316,"Grant Park, Chicago",207.4421
+NC,Shelby,Cleveland,28152,35.2904,-81.5451,"Kings Mountain State Park, Blacksburg",25.403
+TX,Sherman,Grayson,75092,33.6274,-96.6218,"Little Sandy National Wildlife Refuge, Lindale",170.4453
+LA,Shreveport,Caddo,71166,32.4656,-93.7956,"Little Sandy National Wildlife Refuge, Lindale",139.2672
+AZ,Sierra Vista,Cochise,85671,31.563,-110.3153,"Kartchner Caverns State Park, Benson",30.6792
+MD,Silver Spring,Montgomery,20997,39.0028,-77.0207,"Shenandoah National Park, Shenandoah",115.1622
+CA,Simi Valley,Ventura,93099,34.2663,-118.749,"Malibu Creek State Park, Calabasas",17.9921
+SC,Simpsonville,Greenville,29681,34.7287,-82.2573,"Kings Mountain State Park, Blacksburg",94.3712
+IA,Sioux City,Woodbury,51111,42.4959,-96.3901,"Wisconsin Interstate State Park",440.4178
+SD,Sioux Falls,Minnehaha,57197,43.5397,-96.732,"Maplewood State Park, Pelican Rapids",337.122
+IL,Skokie,Cook,60203,42.0359,-87.74,"Grant Park, Chicago",20.2407
+LA,Slidell,St. Tammany,70469,30.2881,-89.7826,"Gulf State Park, Gulf Shores",206.1201
+GA,Smyrna,Cobb,30126,33.8633,-84.5168,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",13.8277
+TN,Smyrna,Rutherford,37167,35.9722,-86.5253,"Sipsey Wilderness, Mt Hope",200.2444
+GA,Snellville,Gwinnett,30078,33.8563,-84.0038,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",54.745
+WA,Snohomish,Snohomish,98291,47.9276,-122.0968,"Mount Rainier National Park, Washington",119.7711
+NJ,Somerset,Somerset,8873,40.5083,-74.501,"Ricketts Glen State Park",176.4563
+MA,Somerville,Middlesex,02145,42.3908,-71.1013,"Odiorne Point State Park, Rye",79.5374
+IN,South Bend,St. Joseph,46699,41.6767,-86.2696,"Grant Park, Chicago",114.3138
+CA,South Gate,Los Angeles,90280,33.9448,-118.1926,"Topanga State Park, Topanga",39.9455
+UT,South Jordan,Salt Lake,84095,40.557,-111.9782,"Manti-La Sal National Forest, Price",160.6598
+CA,South San Francisco,San Mateo,94128,37.6536,-122.4197,"Yosemite National Park, California",254.379
+MS,Southaven,DeSoto,38672,34.9514,-89.9787,"Sipsey Wilderness, Mt Hope",242.6907
+MI,Southfield,Oakland,48086,42.4765,-83.2605,"Egypt Valley Wildlife Area",317.9004
+NV,Sparks,Washoe,89437,39.5729,-119.7157,"Sand Harbor State Park, Incline Village",45.5713
+SC,Spartanburg,Spartanburg,29319,34.9437,-81.9257,"Kings Mountain State Park, Blacksburg",56.7639
+WA,Spokane,Spokane,99260,47.6671,-117.433,"National Bison Range, Montana",244.7719
+TX,Spring,Harris,77387,30.0613,-95.383,"Anahuac National Wildlife Refuge, Anahuac",103.1003
+FL,Spring Hill,Hernando,34611,28.4797,-82.53,"Lake Eola Park, Orlando",113.2955
+CA,Spring Valley,San Diego,91979,32.7316,-116.9766,"Joshua Tree National Park, California",162.3459
+NY,Spring Valley,Rockland,10977,41.1151,-74.0486,"Ricketts Glen State Park",189.1277
+AR,Springdale,Washington,72766,36.1899,-94.1574,"Buffalo National River, St Joe",127.8147
+IL,Springfield,Sangamon,62796,39.771,-89.6538,"Danville Conservation Area, New Florence",188.4163
+MA,Springfield,Hampden,01199,42.1155,-72.5395,"Odiorne Point State Park, Rye",181.5476
+MO,Springfield,Greene,65899,37.1943,-93.2916,"Buffalo National River, St Joe",142.6137
+OH,Springfield,Clark,45506,39.9297,-83.7957,"Egypt Valley Wildlife Area",229.2683
+OR,Springfield,Lane,97478,44.0538,-122.981,"Willamette National Forest, Blue River",71.0645
+VA,Springfield,Fairfax,22313,38.7809,-77.1839,"Shenandoah National Park, Shenandoah",96.5801
+FL,St. Augustine,St. Johns,32095,29.8977,-81.31,"Okefenokee National Wildlife Refuge, Folkston",135.5451
+IL,St. Charles,Kane,60175,41.9193,-88.3109,"Grant Park, Chicago",57.2255
+MO,St. Charles,St. Charles,63303,38.7954,-90.5157,"Danville Conservation Area, New Florence",86.0313
+MI,St. Clair Shores,Macomb,48090,42.4921,-82.8957,"Egypt Valley Wildlife Area",303.2717
+FL,St. Cloud,Osceola,34772,28.2294,-81.2829,"Lake Eola Park, Orlando",36.1819
+MN,St. Cloud,Stearns,56396,45.5339,-94.1718,"Wisconsin Interstate State Park",120.0037
+UT,St. George,Washington,84791,37.077,-113.577,"Zion National Park, Utah",54.4189
+MO,St. Joseph,Buchanan,64508,39.7599,-94.821,"Eagle Bluffs Conservation Area, Columbia",229.1582
+MO,St. Louis,St. Louis,63197,38.6358,-90.2451,"Danville Conservation Area, New Florence",112.1789
+MN,St. Paul,Ramsey,55175,44.9477,-93.104,"Wisconsin Interstate State Park",61.6925
+MO,St. Peters,St. Charles,63376,38.7824,-90.6061,"Danville Conservation Area, New Florence",78.3993
+FL,St. Petersburg,Pinellas,33762,27.7931,-82.6652,"Myakka State Forest, Englewood",96.9751
+CT,Stamford,Fairfield,06927,41.1035,-73.5583,"Ricketts Glen State Park",229.9968
+PA,State College,Centre,16805,40.7909,-77.8568,"Rothrock State Forest, State College",8.2126
+NY,Staten Island,Richmond,10314,40.5834,-74.1496,"Ricketts Glen State Park",198.4304
+GA,Statesboro,Bulloch,30461,32.4376,-81.775,"Okefenokee National Wildlife Refuge, Folkston",191.4532
+NC,Statesville,Iredell,28687,35.7842,-80.8714,"Kings Mountain State Park, Blacksburg",84.4255
+VA,Sterling,Loudoun,20167,39.0052,-77.405,"Shenandoah National Park, Shenandoah",84.0034
+MI,Sterling Heights,Macomb,48314,42.5809,-83.0305,"Egypt Valley Wildlife Area",317.3808
+OK,Stillwater,Payne,74078,36.1316,-97.074,"El Dorado State Park, Kansas",194.9059
+GA,Stockbridge,Henry,30281,33.5253,-84.2294,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",59.6778
+CA,Stockton,San Joaquin,95297,37.9765,-121.3109,"Yosemite National Park, California",155.9754
+GA,Stone Mountain,DeKalb,30083,33.8034,-84.1724,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",42.1858
+FL,Stuart,Martin,34996,27.1958,-80.2438,"Kissimmee Prairie Preserve State Park, Okeechobee",92.3749
+VA,Suffolk,Suffolk,23439,36.6953,-76.6398,"Shenandoah National Park, Shenandoah",266.191
+TX,Sugar Land,Fort Bend,77498,29.5935,-95.6357,"Anahuac National Wildlife Refuge, Anahuac",114.7389
+SC,Summerville,Dorchester,29485,33.0015,-80.1799,"Lake Wateree State Recreation Area",165.3213
+SC,Sumter,Sumter,29154,33.9392,-80.393,"Lake Wateree State Recreation Area",64.9951
+CA,Sunnyvale,Santa Clara,95002,37.3836,-122.0256,"Yosemite National Park, California",225.4935
+AZ,Surprise,Maricopa,85388,33.68,-112.4524,"Petrified Forest National Park, Arizona",278.8595
+GA,Suwanee,Gwinnett,30024,34.0506,-84.0687,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",47.7678
+NY,Syracuse,Onondaga,13290,43.0409,-76.1438,"Ricketts Glen State Park",189.6073
+WA,Tacoma,Pierce,98490,47.2431,-122.4531,"Mount Rainier National Park, Washington",68.2361
+FL,Tallahassee,Leon,32399,30.4551,-84.2526,"Okefenokee National Wildlife Refuge, Folkston",190.8559
+FL,Tampa,Hillsborough,33689,27.9942,-82.4451,"Myakka State Forest, Englewood",112.9295
+MA,Taunton,Bristol,02780,41.9036,-71.0943,"Odiorne Point State Park, Rye",131.0082
+MI,Taylor,Wayne,48180,42.226,-83.2688,"Egypt Valley Wildlife Area",295.9522
+CA,Temecula,Riverside,92593,33.4928,-117.1315,"Joshua Tree National Park, California",121.821
+AZ,Tempe,Maricopa,85287,33.3881,-111.9318,"Kartchner Caverns State Park, Benson",227.4772
+TX,Temple,Bell,76533,31.1076,-97.3894,"Pedernales Falls State Park, Johnson City",121.6353
+IN,Terre Haute,Vigo,47809,39.4654,-87.3763,"Grant Park, Chicago",268.8967
+TX,Texarkana,Bowie,75599,33.4487,-94.0815,"Little Sandy National Wildlife Refuge, Lindale",146.4723
+TX,The Colony,Denton,75056,33.0925,-96.8977,"Little Sandy National Wildlife Refuge, Lindale",161.6507
+CA,Thousand Oaks,Ventura,91362,34.1914,-118.8755,"Malibu Creek State Park, Calabasas",16.3711
+IL,Tinley Park,Cook,60487,41.567,-87.805,"Grant Park, Chicago",37.6174
+FL,Titusville,Brevard,32796,28.5727,-80.8193,"Little Big Econ State Forest",30.0187
+OH,Toledo,Lucas,43699,41.6639,-83.5822,"Egypt Valley Wildlife Area",269.5864
+TX,Tomball,Harris,77377,30.0951,-95.6194,"Anahuac National Wildlife Refuge, Anahuac",125.0777
+UT,Tooele,Tooele,84074,40.5393,-112.3082,"Manti-La Sal National Forest, Price",169.9584
+KS,Topeka,Shawnee,66699,39.0346,-95.6955,"El Dorado State Park, Kansas",159.4565
+CA,Torrance,Los Angeles,90510,33.8346,-118.3417,"Topanga State Park, Topanga",36.6038
+CA,Tracy,San Joaquin,95377,37.7269,-121.4522,"Yosemite National Park, California",168.8617
+MI,Traverse City,Grand Traverse,49696,44.7547,-85.6035,"Grant Park, Chicago",359.2665
+NJ,Trenton,Mercer,08695,40.2236,-74.7641,"Ricketts Glen State Park",178.6097
+MI,Troy,Oakland,48099,42.5818,-83.1457,"Egypt Valley Wildlife Area",322.4163
+NY,Troy,Rensselaer,12182,42.7354,-73.6751,"Odiorne Point State Park, Rye",243.2222
+AZ,Tucson,Pima,85775,32.1545,-110.8782,"Kartchner Caverns State Park, Benson",61.2194
+CA,Tulare,Tulare,93275,36.1996,-119.34,"Kings Canyon National Park, California",103.792
+OK,Tulsa,Tulsa,74193,36.1284,-95.9042,"El Dorado State Park, Kansas",207.5252
+CA,Turlock,Stanislaus,95382,37.5053,-120.8588,"Yosemite National Park, California",122.8915
+AL,Tuscaloosa,Tuscaloosa,35487,33.2348,-87.5267,"Ruffner Mountain Nature Center, Birmingham",84.201
+CA,Tustin,Orange,92782,33.7309,-117.8106,"Topanga State Park, Topanga",82.22
+ID,Twin Falls,Twin Falls,83303,42.5645,-114.4615,"Jackson Hole",316.5265
+TX,Tyler,Smith,75799,32.3184,-95.3062,"Little Sandy National Wildlife Refuge, Lindale",30.4426
+CA,Union City,Alameda,94587,37.603,-122.0187,"Yosemite National Park, California",220.0544
+NJ,Union City,Hudson,7087,40.7674,-74.0323,"Ricketts Glen State Park",199.731
+CA,Upland,San Bernardino,91786,34.1178,-117.6603,"Topanga State Park, Topanga",85.3943
+MD,Upper Marlboro,Prince George's,20792,38.8171,-76.7546,"Shenandoah National Park, Shenandoah",133.9928
+IL,Urbana,Champaign,61803,40.1106,-88.1972,"Grant Park, Chicago",202.2034
+MI,Utica,Macomb,48318,42.629,-83.0218,"Egypt Valley Wildlife Area",321.622
+NY,Utica,Oneida,13599,43.0961,-75.226,"Ricketts Glen State Park",214.1195
+CA,Vacaville,Solano,95688,38.359,-121.968,"Sand Harbor State Park, Incline Village",199.7191
+GA,Valdosta,Lowndes,31698,30.8502,-83.2788,"Okefenokee National Wildlife Refuge, Folkston",94.5576
+CA,Vallejo,Solano,94592,38.1133,-122.2358,"Sand Harbor State Park, Incline Village",233.6788
+NY,Valley Stream,Nassau,11582,40.6647,-73.7044,"Ricketts Glen State Park",229.5964
+IN,Valparaiso,Porter,46385,41.4782,-87.0507,"Grant Park, Chicago",64.896
+FL,Valrico,Hillsborough,33596,27.9193,-82.2293,"Myakka State Forest, Englewood",103.6669
+WA,Vancouver,Clark,98687,45.6366,-122.5967,"Mt. Hood National Forest, Oregon",55.5062
+FL,Venice,Sarasota,34292,27.1163,-82.4135,"Myakka State Forest, Englewood",18.9829
+FL,Vero Beach,Indian River,32969,27.6463,-80.393,"Kissimmee Prairie Preserve State Park, Okeechobee",65.1665
+TX,Victoria,Victoria,77905,28.8285,-96.985,"Pedernales Falls State Park, Johnson City",205.4665
+CA,Victorville,San Bernardino,92395,34.5277,-117.3536,"Topanga State Park, Topanga",123.1825
+VA,Vienna,Fairfax,22183,38.8996,-77.2597,"Shenandoah National Park, Shenandoah",92.2135
+NJ,Vineland,Cumberland,08362,39.4653,-74.9981,"Ricketts Glen State Park",235.3464
+VA,Virginia Beach,Virginia Beach,23479,36.7335,-76.0435,"Shenandoah National Park, Shenandoah",294.9016
+CA,Visalia,Tulare,93292,36.3276,-119.3269,"Kings Canyon National Park, California",92.8779
+CA,Vista,San Diego,92085,33.1896,-117.2386,"Joshua Tree National Park, California",145.9551
+TX,Waco,McLennan,76799,31.5598,-97.1881,"Pedernales Falls State Park, Johnson City",172.5684
+HI,Waianae,Honolulu,96792,21.4569,-158.1759,"Honolulu Watershed Forest Preserve, Honolulu",42.1595
+HI,Waipahu,Honolulu,96797,21.3858,-158.0103,"Honolulu Watershed Forest Preserve, Honolulu",23.848
+NC,Wake Forest,Wake,27588,35.9629,-78.5141,"Kings Mountain State Park, Blacksburg",272.3571
+MD,Waldorf,Charles,20695,38.6085,-76.9195,"Shenandoah National Park, Shenandoah",119.6784
+CA,Walnut Creek,Contra Costa,94598,37.9024,-122.0398,"Yosemite National Park, California",219.5654
+MA,Waltham,Middlesex,02454,42.3889,-71.2423,"Odiorne Point State Park, Rye",84.8947
+GA,Warner Robins,Houston,31099,32.597,-83.6529,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",175.8899
+MI,Warren,Macomb,48397,42.4934,-83.027,"Egypt Valley Wildlife Area",308.9215
+OH,Warren,Trumbull,44485,41.239,-80.8174,"Hillman State Park, Burgettstown",94.084
+RI,Warwick,Kent,02889,41.7062,-71.4334,"Odiorne Point State Park, Rye",160.3949
+AK,Wasilla,Matanuska-Susitna,99654,61.577,-149.466,"Kenai Fjords National Park, Alaska",171.5414
+CT,Waterbury,New Haven,06726,41.5583,-73.0361,"Odiorne Point State Park, Rye",252.4699
+IA,Waterloo,Black Hawk,50707,42.492,-92.3522,"Wisconsin Interstate State Park",324.0315
+CA,Watsonville,Santa Cruz,95077,36.9206,-121.7706,"Yosemite National Park, California",223.4189
+IL,Waukegan,Lake,60087,42.3697,-87.8716,"Grant Park, Chicago",58.5844
+WI,Waukesha,Waukesha,53189,43.0087,-88.2464,"Grant Park, Chicago",135.9275
+WI,Wausau,Marathon,54403,44.962,-89.6459,"Wisconsin Interstate State Park",240.0181
+TX,Waxahachie,Ellis,75167,32.4032,-96.8444,"Little Sandy National Wildlife Refuge, Lindale",148.7778
+NC,Waxhaw,Union,28173,34.9364,-80.7438,"Kings Mountain State Park, Blacksburg",58.8754
+TX,Weatherford,Parker,76087,32.7536,-97.7723,"Little Sandy National Wildlife Refuge, Lindale",234.5683
+FL,Wellington,Palm Beach,33470,26.6461,-80.2699,"Oleta River State Park, North Miami",81.525
+TX,Weslaco,Hidalgo,78599,26.1648,-97.9898,"Pedernales Falls State Park, Johnson City",461.4569
+FL,Wesley Chapel,Pasco,33559,28.2106,-82.3238,"Lake Eola Park, Orlando",100.1896
+WI,West Bend,Washington,53095,43.4184,-88.1824,"Grant Park, Chicago",177.477
+PA,West Chester,Chester,19383,39.9601,-75.6058,"Ricketts Glen State Park",163.8625
+SC,West Columbia,Lexington,29171,33.9931,-81.0932,"Lake Wateree State Recreation Area",47.4493
+CA,West Covina,Los Angeles,91793,34.0555,-117.9112,"Topanga State Park, Topanga",62.4139
+IA,West Des Moines,Polk,50398,41.5522,-93.7805,"Eagle Bluffs Conservation Area, Columbia",321.661
+CT,West Haven,New Haven,06516,41.2739,-72.9672,"Odiorne Point State Park, Rye",270.6491
+UT,West Jordan,Salt Lake,84088,40.6024,-112.0008,"Manti-La Sal National Forest, Price",166.0537
+IN,West Lafayette,Tippecanoe,47996,40.4432,-86.9239,"Grant Park, Chicago",169.7444
+LA,West Monroe,Ouachita,71294,32.512,-92.1513,"Hot Springs National Park, Hot Springs",238.2235
+NJ,West New York,Hudson,7093,40.7856,-74.0093,"Ricketts Glen State Park",200.9059
+FL,West Palm Beach,Palm Beach,33422,26.7468,-80.1316,"Oleta River State Park, North Miami",91.7654
+CA,West Sacramento,Yolo,95899,38.5557,-121.5504,"Sand Harbor State Park, Incline Village",157.3441
+UT,West Valley City,Salt Lake,84170,40.6889,-112.0115,"Manti-La Sal National Forest, Price",175.464
+OH,Westerville,Franklin,43086,40.1241,-82.9209,"Egypt Valley Wildlife Area",153.6345
+MI,Westland,Wayne,48186,42.3192,-83.3805,"Egypt Valley Wildlife Area",309.7821
+CA,Westminster,Orange,92685,33.7523,-117.9938,"Topanga State Park, Topanga",66.6011
+CO,Westminster,Adams,80234,39.8837,-105.0624,"William F Hayden Green Mountain Park, Lakewood",22.3181
+MD,Westminster,Carroll,21158,39.5796,-77.0066,"Rothrock State Forest, State College",144.767
+IL,Wheaton,DuPage,60189,41.8561,-88.1083,"Grant Park, Chicago",40.3421
+NY,White Plains,Westchester,10606,41.022,-73.7549,"Ricketts Glen State Park",215.1006
+CA,Whittier,Los Angeles,90609,33.9678,-118.0188,"Topanga State Park, Topanga",54.2131
+KS,Wichita,Sedgwick,67278,37.6896,-97.3442,"El Dorado State Park, Kansas",55.2165
+TX,Wichita Falls,Wichita,76311,33.9072,-98.5291,"Little Sandy National Wildlife Refuge, Lindale",336.2357
+VA,Williamsburg,Williamsburg,23187,37.2692,-76.7076,"Shenandoah National Park, Shenandoah",211.2476
+PA,Williamsport,Lycoming,17720,41.2398,-77.0371,"Ricketts Glen State Park",63.355
+DE,Wilmington,New Castle,19899,39.7415,-75.5413,"Ricketts Glen State Park",188.5937
+NC,Wilmington,New Hanover,28412,34.21,-77.8866,"Lake Wateree State Recreation Area",274.0817
+NC,Wilson,Wilson,27896,35.7312,-77.9284,"Lake Wateree State Recreation Area",306.7609
+VA,Winchester,Winchester,22604,39.1735,-78.1746,"Shenandoah National Park, Shenandoah",53.5761
+FL,Winter Garden,Orange,34787,28.5421,-81.5966,"Lake Eola Park, Orlando",21.8576
+FL,Winter Haven,Polk,33888,28.0118,-81.7017,"Lake Eola Park, Orlando",67.4717
+FL,Winter Park,Orange,32792,28.5987,-81.3438,"Lake Eola Park, Orlando",6.6089
+VA,Woodbridge,Prince William,22195,38.6569,-77.2403,"Shenandoah National Park, Shenandoah",91.482
+CA,Woodland,Yolo,95776,38.6712,-121.75,"Sand Harbor State Park, Incline Village",167.8954
+GA,Woodstock,Cherokee,30189,34.1026,-84.509,"Kennesaw Mountain National Battlefield Park, Cobb County, Georgia",15.4528
+MA,Worcester,Worcester,01655,42.2705,-71.8079,"Odiorne Point State Park, Rye",124.1146
+TX,Wylie,Collin,75407,33.0362,-96.5161,"Little Sandy National Wildlife Refuge, Lindale",126.2291
+MI,Wyoming,Kent,49548,42.8909,-85.7066,"Grant Park, Chicago",193.5638
+WA,Yakima,Yakima,98908,46.5923,-120.5496,"Mount Rainier National Park, Washington",95.251
+NY,Yonkers,Westchester,10710,40.9466,-73.8674,"Ricketts Glen State Park",207.5346
+CA,Yorba Linda,Orange,92887,33.889,-117.7714,"Topanga State Park, Topanga",78.5744
+PA,York,York,17405,39.9651,-76.7315,"Rothrock State Forest, State College",125.2043
+OH,Youngstown,Mahoning,44555,41.0993,-80.6463,"Hillman State Park, Burgettstown",74.6988
+MI,Ypsilanti,Washtenaw,48198,42.2437,-83.6205,"Egypt Valley Wildlife Area",316.2003
+CA,Yuba City,Sutter,95993,39.1357,-121.6381,"Sand Harbor State Park, Incline Village",147.3337
+CA,Yucaipa,San Bernardino,92399,34.0336,-117.0429,"Joshua Tree National Park, California",106.6923
+OK,Yukon,Canadian,73099,35.5201,-97.7639,"El Dorado State Park, Kansas",275.8702
+AZ,Yuma,Yuma,85369,32.5992,-114.5488,"Joshua Tree National Park, California",190.123
+OH,Zanesville,Muskingum,43702,39.9565,-82.0132,"Egypt Valley Wildlife Area",78.5606
+FL,Zephyrhills,Pasco,33542,28.2408,-82.1796,"Lake Eola Park, Orlando",85.8594

@@ -1,0 +1,8 @@
+{
+  "name": "Walkability",
+  "type": "slider",
+  "leftLabel": "Not Walkable",
+  "rightLabel": "Very Walkable",
+  "question": "How walkable would you like your new city to be?",
+  "subquestion": "Ever thought of walking to work?"
+}

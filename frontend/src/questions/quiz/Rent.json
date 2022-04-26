@@ -1,0 +1,8 @@
+{
+  "name": "Rent",
+  "type": "slider",
+  "leftLabel": "Lower Rent",
+  "rightLabel": "Higher Rent",
+  "question": "Do you want to keep rent costs down?",
+  "subquestion": "US median rents have been increasing 2-5% per year."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Annual Taxes",
+  "type": "slider",
+  "leftLabel": "Lower",
+  "rightLabel": "Higher",
+  "question": "Do you care about how high annual taxes are?",
+  "subquestion": "Annual taxes are composed of income, property, and sales tax."
+}

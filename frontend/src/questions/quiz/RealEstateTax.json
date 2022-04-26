@@ -1,0 +1,8 @@
+{
+  "name": "Real Estate Tax",
+  "type": "slider",
+  "leftLabel": "Lower",
+  "rightLabel": "Higher",
+  "question": "Do you want to limit real estate or property taxes?",
+  "subquestion": "A luxury home can cost you a fortune every year in some cities"
+}

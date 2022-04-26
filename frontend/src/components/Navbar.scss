@@ -1,0 +1,4 @@
+.navbar-text {
+  /* Linter might not understand Tailwind's [at]apply deccorator, errors expected */
+  @apply md:text-xl sm:text-lg lg:px-3 lg:py-2 md:px-2 md:py-1 sm:px-2 sm:py-1 uppercase font-display  leading-snug text-black hover:opacity-75;
+}

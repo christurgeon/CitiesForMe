@@ -1,0 +1,8 @@
+{
+  "name": "Distance to Airport",
+  "type": "slider",
+  "leftLabel": "Closer",
+  "rightLabel": "Farther",
+  "question": "Do you need to be near an airport?",
+  "subquestion": "Like to travel or visit far-away family?"
+}
